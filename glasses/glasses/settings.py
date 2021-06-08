@@ -1,4 +1,4 @@
-# Scrapy settings for tinydeal project
+# Scrapy settings for glasses project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'tinydeal'
+BOT_NAME = 'glasses'
 
-SPIDER_MODULES = ['tinydeal.spiders']
-NEWSPIDER_MODULE = 'tinydeal.spiders'
+SPIDER_MODULES = ['glasses.spiders']
+NEWSPIDER_MODULE = 'glasses.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-# USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36'
+#USER_AGENT = 'glasses (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -37,24 +37,21 @@ ROBOTSTXT_OBEY = True
 #TELNETCONSOLE_ENABLED = False
 
 # Override the default request headers:
-# DEFAULT_REQUEST_HEADERS = {
+#DEFAULT_REQUEST_HEADERS = {
 #   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
 #   'Accept-Language': 'en',
-# }
-# DEFAULT_REQUEST_HEADERS = {
-#   'User-Agent' : 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36'
-# }
+#}
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'tinydeal.middlewares.TinydealSpiderMiddleware': 543,
+#    'glasses.middlewares.GlassesSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'tinydeal.middlewares.TinydealDownloaderMiddleware': 543,
+#    'glasses.middlewares.GlassesDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -66,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'tinydeal.pipelines.TinydealPipeline': 300,
+#    'glasses.pipelines.GlassesPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -90,5 +87,4 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-# Set encoding format
 FEED_EXPORT_ENCODING = 'utf-8'
