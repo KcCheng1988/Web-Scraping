@@ -1,0 +1,819 @@
+car_name,length,width,height
+Alfa Romeo RM Sport, 425 cm or 167.32 inches , 168 cm or 66.14 inches , 165 cm or 64.96 inches 
+Alfa Romeo RL Super Sport Zagato, 463 cm or 182.28 inches , 177 cm or 69.69 inches , 165 cm or 64.96 inches 
+Alfa Romeo RL Super Sport Castagna, 445 cm or 175.2 inches , 187 cm or 73.62 inches , 163 cm or 64.17 inches 
+Alfa Romeo 6C 1500 Sport James Young, 423 cm or 166.54 inches , 183 cm or 72.05 inches , 167 cm or 65.75 inches 
+Alfa Romeo 6C 1500 Super Sport , 400 cm or 157.48 inches , 163 cm or 64.17 inches , 135 cm or 53.15 inches 
+Alfa Romeo 6C 1750 Gran Turismo, - cm or - inches , - cm or - inches , - cm or - inches 
+Aixam Evolution 500, 288.5 cm or 113.58 inches , 144 cm or 56.69 inches , - cm or - inches 
+Aiways U5 Standard, 468 cm or 184.25 inches , 186.5 cm or 73.43 inches , 170 cm or 66.93 inches 
+Adler 1.7 Litre , - cm or - inches , - cm or - inches , - cm or - inches 
+Acura Legend 1 Sedan 2.7i V6, 484 cm or 190.55 inches , 175 cm or 68.9 inches , 139 cm or 54.72 inches 
+Acura Legend 1 Sedan 2.7i V6 Auto, 484 cm or 190.55 inches , 175 cm or 68.9 inches , 139 cm or 54.72 inches 
+Acura Legend 1 Sedan 2.7i V6, 484 cm or 190.55 inches , 175 cm or 68.9 inches , 139 cm or 54.72 inches 
+Acura Legend 1 Sedan 2.7i V6 Auto, 481 cm or 189.37 inches , 173.5 cm or 68.31 inches , 139 cm or 54.72 inches 
+Acura Legend 1 Sedan 2.7i V6, 481 cm or 189.37 inches , 173.5 cm or 68.31 inches , 139 cm or 54.72 inches 
+Acura Legend 1 Sedan 2.5i V6 Auto, 481 cm or 189.37 inches , 173.5 cm or 68.31 inches , 139 cm or 54.72 inches 
+Acura Legend 1 Sedan 2.5i V6, 481 cm or 189.37 inches , 173.5 cm or 68.31 inches , 139 cm or 54.72 inches 
+Acura Integra 1986 3-door 1.6i Auto, 428.5 cm or 168.7 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 3-door 1.6i, 428.5 cm or 168.7 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 3-door 1.6i Auto, 428.5 cm or 168.7 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+ZAZ 966 , 373 cm or 146.85 inches , 153 cm or 60.24 inches , 137 cm or 53.94 inches 
+ZAZ 966 B, 373 cm or 146.85 inches , 153.5 cm or 60.43 inches  , 137 cm or 53.94 inches 
+ZAZ 968 M, 377 cm or 148.43 inches , 157 cm or 61.81 inches , 140 cm or 55.12 inches 
+Zastava Yugo 65A GLX, 352.8 cm or 138.9 inches , 154.2 cm or 60.71 inches , 138.9 cm or 54.69 inches 
+Zagato Ferrari 3Z, 452 cm or 177.95 inches , 169 cm or 66.54 inches , 128 cm or 50.39 inches 
+Zagato Bambu Nissan 300, 407.7 cm or 160.51 inches , 187.8 cm or 73.94 inches , 124.8 cm or 49.13 inches 
+Yugo Yugo 65A EFi, 349 cm or 137.4 inches , 155 cm or 61.02 inches , 139 cm or 54.72 inches 
+Yugo Yugo 65A, 349 cm or 137.4 inches , 154 cm or 60.63 inches , 134 cm or 52.76 inches 
+Yugo Yugo 55A, 349 cm or 137.4 inches , 154 cm or 60.63 inches , 134 cm or 52.76 inches 
+Yugo Yugo 45A, 349 cm or 137.4 inches , 154 cm or 60.63 inches , 134 cm or 52.76 inches 
+Yugo Sana 1.3 EFi, 393 cm or 154.72 inches , 166 cm or 65.35 inches , 143 cm or 56.3 inches 
+Yugo Sana 1.4, 396 cm or 155.91 inches , 164 cm or 64.57 inches , 143 cm or 56.3 inches 
+Zagato Zuma , 401.7 cm or 158.15 inches , 178 cm or 70.08 inches , 129.7 cm or 51.06 inches 
+Zagato Isocity , 261 cm or 102.76 inches , 147 cm or 57.87 inches , 143.4 cm or 56.46 inches 
+Zastava Yugo 55A GLS, 352.8 cm or 138.9 inches , 154.2 cm or 60.71 inches , 138.9 cm or 54.69 inches 
+Zastava Yugo Florida 1.3, 393 cm or 154.72 inches , 166 cm or 65.35 inches , 141 cm or 55.51 inches 
+Zastava Yugo Florida 1.1, 393 cm or 154.72 inches , 166 cm or 65.35 inches , 141 cm or 55.51 inches 
+Zastava Yugo Florida 1.6, 393 cm or 154.72 inches , 166 cm or 65.35 inches , 141 cm or 55.51 inches 
+Zastava Yugo Florida 1.4, 393 cm or 154.72 inches , 166 cm or 65.35 inches , 141 cm or 55.51 inches 
+ZAZ 968 , 373 cm or 146.85 inches , 153 cm or 60.24 inches , 137 cm or 53.94 inches 
+ZAZ Tavria , 370.8 cm or 145.98 inches , 155.4 cm or 61.18 inches , 141 cm or 55.51 inches 
+Acura Integra 1986 3-door 1.6i, 428.5 cm or 168.7 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 3-door 1.6i Auto, 428 cm or 168.5 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 3-door 1.6i, 428 cm or 168.5 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 3-door 1.6i Auto, 428 cm or 168.5 inches , 166.5 cm or 65.55 inches , 134.5 cm or 52.95 inches 
+Acura Integra 1986 3-door 1.6i, 428 cm or 168.5 inches , 166.5 cm or 65.55 inches , 134.5 cm or 52.95 inches 
+Acura Integra 1986 5-door 1.6i Auto, 435.5 cm or 171.46 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 5-door 1.6i, 435.5 cm or 171.46 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 5-door 1.6i Auto, 435.5 cm or 171.46 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 5-door 1.6i, 435.5 cm or 171.46 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 5-door 1.6i Auto, 435 cm or 171.26 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 5-door 1.6i, 435 cm or 171.26 inches , 166.5 cm or 65.55 inches , 129 cm or 50.79 inches 
+Acura Integra 1986 5-door 1.6i Auto, 435 cm or 171.26 inches , 166.5 cm or 65.55 inches , 134.5 cm or 52.95 inches 
+Acura Integra 1986 5-door 1.6i, 435 cm or 171.26 inches , 166.5 cm or 65.55 inches , 134.5 cm or 52.95 inches 
+Acura Legend 1 Coupe 2.7i V6, 477.5 cm or 187.99 inches , 174.5 cm or 68.7 inches , 136.9 cm or 53.9 inches 
+Acura Legend 1 Coupe 2.7i V6 Auto, 477.5 cm or 187.99 inches , 174.5 cm or 68.7 inches , 136.9 cm or 53.9 inches 
+Acura Legend 1 Coupe 2.7i V6, 477.5 cm or 187.99 inches , 174.5 cm or 68.7 inches , 136.9 cm or 53.9 inches 
+Acura Legend 1 Coupe 2.7i V6 Auto, 477.5 cm or 187.99 inches , 174.5 cm or 68.7 inches , 137 cm or 53.94 inches 
+Acura Legend 1 Coupe 2.7i V6, 477.5 cm or 187.99 inches , 174.5 cm or 68.7 inches , 137 cm or 53.94 inches 
+Acura Legend 1 Coupe 2.7i V6 Auto, 477.5 cm or 187.99 inches , 174.5 cm or 68.7 inches , 137 cm or 53.94 inches 
+Acura Legend 1 Coupe 2.7i V6, 477.5 cm or 187.99 inches , 174.5 cm or 68.7 inches , 137 cm or 53.94 inches 
+Acura Integra 1990 3-door 1.8i Auto, 439.2 cm or 172.91 inches , 171.4 cm or 67.48 inches , 127 cm or 50 inches 
+Acura Integra 1990 3-door 1.8i, 439.2 cm or 172.91 inches , 171.4 cm or 67.48 inches , 127 cm or 50 inches 
+Acura Integra 1990 3-door 1.7i VTEC GS-R (DB2), 439.2 cm or 172.91 inches , 171.4 cm or 67.48 inches , 127 cm or 50 inches 
+Acura Integra 1990 3-door 1.8i Auto, 439.2 cm or 172.91 inches , 171.2 cm or 67.4 inches , 132.5 cm or 52.17 inches 
+Acura Integra 1990 3-door 1.8i, 439.2 cm or 172.91 inches , 171.2 cm or 67.4 inches , 132.5 cm or 52.17 inches 
+Acura Integra 1990 3-door 1.8i Auto, 439.2 cm or 172.91 inches , 171.2 cm or 67.4 inches , 132.5 cm or 52.17 inches 
+Acura Integra 1990 3-door 1.8i, 439.2 cm or 172.91 inches , 171.2 cm or 67.4 inches , 132.5 cm or 52.17 inches 
+Acura Integra 1990 4-door 1.8i Auto, 448.4 cm or 176.54 inches , 171.4 cm or 67.48 inches , 128.5 cm or 50.59 inches 
+Acura Integra 1990 4-door 1.8i, 448.4 cm or 176.54 inches , 171.4 cm or 67.48 inches , 128.5 cm or 50.59 inches 
+Acura Integra 1990 4-door 1.8i Auto, 448.4 cm or 176.54 inches , 171.2 cm or 67.4 inches , 134 cm or 52.76 inches 
+Acura Integra 1990 4-door 1.8i, 448.4 cm or 176.54 inches , 171.2 cm or 67.4 inches , 134 cm or 52.76 inches 
+Acura Integra 1990 4-door 1.8i Auto, 448.4 cm or 176.54 inches , 171.2 cm or 67.4 inches , 134 cm or 52.76 inches 
+Acura Integra 1990 4-door 1.8i, 448.4 cm or 176.54 inches , 171.2 cm or 67.4 inches , 134 cm or 52.76 inches 
+Acura Legend 2 Sedan 3.2 V6 Auto, 495 cm or 194.88 inches , 181 cm or 71.26 inches , 140 cm or 55.12 inches 
+Acura Legend 2 Sedan 3.2 V6, 495 cm or 194.88 inches , 181 cm or 71.26 inches , 140 cm or 55.12 inches 
+Acura Legend 2 Sedan 3.2 V6, 495 cm or 194.88 inches , 181 cm or 71.26 inches , 140 cm or 55.12 inches 
+Acura Legend 2 Sedan 3.2 V6 Auto, 495 cm or 194.88 inches , 181 cm or 71.26 inches , 140 cm or 55.12 inches 
+Acura Legend 2 Sedan 3.2 V6, 495 cm or 194.88 inches , 181 cm or 71.26 inches , 140 cm or 55.12 inches 
+Acura NSX (NA1) 3.2 V6 Alex Zanardi Edition 6-speed, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 116 cm or 45.67 inches 
+Acura NSX (NA1) 3.2 V6 6-speed, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura NSX (NA1) 3.0 V6 Auto, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura NSX (NA1) 3.0 V6 Auto, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura NSX (NA1) 3.0 V6, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura NSX (NA1) 3.0 V6 Auto, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura NSX (NA1) 3.0 V6, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura Legend 2 Sedan 3.2 V6 GS Auto, 495 cm or 194.88 inches , 181 cm or 71.26 inches , 140 cm or 55.12 inches 
+Acura Legend 2 Sedan 3.2 V6 GS 6-speed, 495 cm or 194.88 inches , 181 cm or 71.26 inches , 140 cm or 55.12 inches 
+Acura NSX (NA1) 3.0 V6, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 115.7 cm or 45.55 inches 
+Acura NSX (NA1) 3.0 V6 Auto, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 115.7 cm or 45.55 inches 
+Acura NSX (NA1) 3.0 V6 Auto, 440.5 cm or 173.43 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura NSX (NA1) 3.0 V6, 440.5 cm or 173.43 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura Legend 2 Coupe 3.2 V6 Auto, 489 cm or 192.52 inches , 181 cm or 71.26 inches , 136.6 cm or 53.78 inches 
+Acura Legend 2 Sedan 3.2 V6 Auto, 495 cm or 194.88 inches , 181 cm or 71.26 inches , 140 cm or 55.12 inches 
+Acura Legend 2 Sedan 3.2 V6, 495 cm or 194.88 inches , 181 cm or 71.26 inches , 140 cm or 55.12 inches 
+Acura Legend 2 Coupe 3.2 V6, 489 cm or 192.52 inches , 181 cm or 71.26 inches , 136.6 cm or 53.78 inches 
+Acura Legend 2 Coupe 3.2 V6 Auto, 489 cm or 192.52 inches , 181 cm or 71.26 inches , 136 cm or 53.54 inches 
+Acura Legend 2 Coupe 3.2 V6, 489 cm or 192.52 inches , 181 cm or 71.26 inches , 136 cm or 53.54 inches 
+Acura Legend 2 Coupe 3.2 V6 Auto, 489 cm or 192.52 inches , 181 cm or 71.26 inches , 136 cm or 53.54 inches 
+Acura Legend 2 Coupe 3.2 V6, 489 cm or 192.52 inches , 181 cm or 71.26 inches , 136 cm or 53.54 inches 
+Acura Legend 2 Coupe 3.2 V6 Auto, 489 cm or 192.52 inches , 181 cm or 71.26 inches , 136 cm or 53.54 inches 
+Acura Legend 2 Coupe 3.2 V6, 489 cm or 192.52 inches , 181 cm or 71.26 inches , 136 cm or 53.54 inches 
+Acura Vigor 2.5i Auto, 483.5 cm or 190.35 inches , 178 cm or 70.08 inches , 132 cm or 51.97 inches 
+Acura Vigor 2.5i, 483.5 cm or 190.35 inches , 178 cm or 70.08 inches , 132 cm or 51.97 inches 
+Acura Vigor 2.5i Auto, 483.5 cm or 190.35 inches , 178 cm or 70.08 inches , 132 cm or 51.97 inches 
+Acura Vigor 2.5i, 483.5 cm or 190.35 inches , 178 cm or 70.08 inches , 132 cm or 51.97 inches 
+Acura Vigor 2.5i Auto, 483.5 cm or 190.35 inches , 178 cm or 70.08 inches , 132 cm or 51.97 inches 
+Acura Vigor 2.5i, 483.5 cm or 190.35 inches , 178 cm or 70.08 inches , 132 cm or 51.97 inches 
+Acura Integra 1994 Sports Sedan 1.8i VTEC GS-R (DB8), 452.5 cm or 178.15 inches , 171 cm or 67.32 inches , 137 cm or 53.94 inches 
+Acura Integra 1994 Sports Sedan 1.8i Auto, 452.5 cm or 178.15 inches , 171 cm or 67.32 inches , 137 cm or 53.94 inches 
+Acura Integra 1994 Sports Sedan 1.8i, 452.5 cm or 178.15 inches , 171 cm or 67.32 inches , 137 cm or 53.94 inches 
+Acura Integra 1994 Sports Sedan 1.8i VTEC GS-R (DB8), 452.5 cm or 178.15 inches , 171 cm or 67.32 inches , 137 cm or 53.94 inches 
+Acura Integra 1994 Sports Sedan 1.8i Auto, 452.5 cm or 178.15 inches , 171 cm or 67.32 inches , 137 cm or 53.94 inches 
+Acura Integra 1994 Sports Sedan 1.8i, 452.5 cm or 178.15 inches , 171 cm or 67.32 inches , 137 cm or 53.94 inches 
+Acura Integra 1994 Sports Sedan 1.8i VTEC GS-R (DB8), 452.5 cm or 178.15 inches , 171 cm or 67.32 inches , 132.3 cm or 52.09 inches 
+Acura Integra 1994 Sports Sedan 1.8i Auto, 452.5 cm or 178.15 inches , 171 cm or 67.32 inches , 132.3 cm or 52.09 inches 
+Acura Integra 1994 Sports Sedan 1.8i, 452.5 cm or 178.15 inches , 171 cm or 67.32 inches , 132.3 cm or 52.09 inches 
+Acura Integra 1994 Sports Coupe 1.8i VTEC GS-R (DB8), 438 cm or 172.44 inches , 171 cm or 67.32 inches , 133.8 cm or 52.68 inches 
+Acura Integra 1994 Sports Coupe 1.8i, 438 cm or 172.44 inches , 171 cm or 67.32 inches , 133.8 cm or 52.68 inches 
+Acura Integra 1994 Sports Coupe 1.8i Auto, 438 cm or 172.44 inches , 171 cm or 67.32 inches , 133.8 cm or 52.68 inches 
+Acura Integra 1994 Sports Coupe 1.8i VTEC Type-R (DC2 - Canada), 438 cm or 172.44 inches , 169.5 cm or 66.73 inches , 132 cm or 51.97 inches 
+Acura Integra 1994 Sports Coupe 1.8i Auto, 438 cm or 172.44 inches , 171 cm or 67.32 inches , 133.8 cm or 52.68 inches 
+Acura Integra 1994 Sports Coupe 1.8i VTEC GS-R (DB8), 438 cm or 172.44 inches , 171 cm or 67.32 inches , 129 cm or 50.79 inches 
+Acura Integra 1994 Sports Coupe 1.8i Auto, 438 cm or 172.44 inches , 171 cm or 67.32 inches , 129 cm or 50.79 inches 
+Acura Integra 1994 Sports Coupe 1.8i, 438 cm or 172.44 inches , 171 cm or 67.32 inches , 129 cm or 50.79 inches 
+Acura SLX 3.5 V6, 477 cm or 187.8 inches ," 183.5 cm or 72.24 inches ", 183.5 cm or 72.24 inches 
+Acura SLX 3.2 V6 Auto, 466 cm or 183.46 inches , 183.5 cm or 72.24 inches , 183.5 cm or 72.24 inches 
+Acura SLX 3.2 V6, 466 cm or 183.46 inches , 183.5 cm or 72.24 inches , 183.5 cm or 72.24 inches 
+Acura TL I 3.2, 487 cm or 191.73 inches , 180 cm or 70.87 inches  , 141.5 cm or 55.71 inches 
+Acura TL I 2.5, 486.5 cm or 191.54 inches , 178.5 cm or 70.28 inches , 140.5 cm or 55.31 inches 
+Acura NSX-T (NA1) 3.2 V6 6-speed, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura Integra 1994 Sports Coupe 1.8i VTEC Type-R (DC2), 438 cm or 172.44 inches , 169.5 cm or 66.73 inches , 132 cm or 51.97 inches 
+Acura NSX-T (NA1) 3.0 V6 Auto, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura NSX-T (NA1) 3.0 V6 Auto, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura NSX-T (NA1) 3.0 V6, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura Integra 1994 Sports Coupe 1.8i VTEC GS-R (DB8), 438 cm or 172.44 inches , 171 cm or 67.32 inches , 133.8 cm or 52.68 inches 
+Acura EL (MB4) 1.6 Auto, 447.8 cm or 176.3 inches , 170.4 cm or 67.09 inches , 139.4 cm or 54.88 inches 
+Acura Integra 1994 Sports Coupe 1.8i, 438 cm or 172.44 inches , 171 cm or 67.32 inches , 133.8 cm or 52.68 inches 
+Acura EL (MB4) 1.6, 447.8 cm or 176.3 inches , 170.4 cm or 67.09 inches , 139.4 cm or 54.88 inches 
+Acura EL (MB4) 1.6 Auto, 447.8 cm or 176.3 inches , 170.4 cm or 67.09 inches , 139.4 cm or 54.88 inches 
+Acura EL (MB4) 1.6, 447.8 cm or 176.3 inches , 170.4 cm or 67.09 inches , 139.4 cm or 54.88 inches 
+Acura RL (KA9) , 499.5 cm or 196.65 inches , 182.2 cm or 71.73 inches , 138.5 cm or 54.53 inches 
+Acura RL (KA9) , 499.5 cm or 196.65 inches , 182.2 cm or 71.73 inches , 138.5 cm or 54.53 inches 
+Acura RL (KA9) , 495.5 cm or 195.08 inches , 182.2 cm or 71.73 inches ," 143.5 cm or 56.5 inches "
+Acura CL (YA1) 3.0 V6, 482.6 cm or 190 inches , 178.1 cm or 70.12 inches , 138.9 cm or 54.69 inches 
+Acura CL (YA1) 2.3 Auto, 482.6 cm or 190 inches , 178.1 cm or 70.12 inches , 138.9 cm or 54.69 inches 
+Acura CL (YA1) 2.3, 482.6 cm or 190 inches , 178.1 cm or 70.12 inches , 138.9 cm or 54.69 inches 
+Acura CL (YA1) 3.0 V6, 482.6 cm or 190 inches , 178.1 cm or 70.12 inches , 138.9 cm or 54.69 inches 
+Acura CL (YA1) 2.3, 482.6 cm or 190 inches , 178.1 cm or 70.12 inches , 138.9 cm or 54.69 inches 
+Acura CL (YA1) 2.3 Auto, 482.6 cm or 190 inches , 178.1 cm or 70.12 inches , 138.9 cm or 54.69 inches 
+Acura CL (YA1) 2.2 Auto, 482.6 cm or 190 inches , 178.1 cm or 70.12 inches , 138.9 cm or 54.69 inches 
+Acura CL (YA1) 2.2, 482.6 cm or 190 inches , 178.1 cm or 70.12 inches , 138.9 cm or 54.69 inches 
+Acura CL (YA1) 3.0 V6, 482.6 cm or 190 inches , 178.1 cm or 70.12 inches , 138.9 cm or 54.69 inches 
+Acura TL II 3.2, 489 cm or 192.52 inches , 179.3 cm or 70.59 inches , 136.4 cm or 53.7 inches 
+Acura TL II 3.2 Type S, 489 cm or 192.52 inches , 179.3 cm or  70.59 inches , 136.4 cm or 53.7 inches 
+Acura TL II 3.2, 490 cm or 192.91 inches , 178.5 cm or 70.28 inches , 142.5 cm or 56.1 inches 
+Acura TL II 3.2, 490 cm or 192.91 inches , 178.5 cm or 70.28 inches , 142.5 cm or 56.1 inches 
+Acura CL (YA4) 3.2 Type-S Auto, 487.7 cm or 192.01 inches , 179.3 cm or 70.59 inches , 141 cm or 55.51 inches 
+Acura CL (YA4) 3.2 Type-S 6-speed, 487.7 cm or 192.01 inches , 179.3 cm or 70.59 inches , 141 cm or 55.51 inches 
+Acura CL (YA4) , 487.7 cm or 192.01 inches , 179.3 cm or 70.59 inches , 141 cm or 55.51 inches 
+Acura CL (YA4) 3.2 Type-S Auto, 487.7 cm or 192.01 inches , 179.3 cm or 70.59 inches , 141 cm or 55.51 inches 
+Acura EL (ES3) 1.7 Auto, 450.5 cm or 177.36 inches , 171.5 cm or 67.52 inches , 144 cm or 56.69 inches 
+Acura EL (ES3) 1.7, 450.5 cm or 177.36 inches , 171.5 cm or 67.52 inches , 144 cm or 56.69 inches 
+Acura EL (ES3) 1.7 Auto, 448.8 cm or 176.69 inches , 171.5 cm or 67.52 inches , 144 cm or 56.69 inches 
+Acura EL (ES3) 1.7, 448.8 cm or 176.69 inches , 171.5 cm or 67.52 inches , 144 cm or 56.69 inches 
+Acura EL (ES3) 1.7 Auto, 448.8 cm or 176.69 inches , 171.5 cm or 67.52 inches , 144 cm or 56.69 inches 
+Acura EL (ES3) 1.7, 448.8 cm or 176.69 inches , 171.5 cm or 67.52 inches , 144 cm or 56.69 inches 
+Acura EL (ES3) 1.7 Auto, 448.8 cm or 176.69 inches , 171.5 cm or 67.52 inches , 144 cm or 56.69 inches 
+Acura EL (ES3) 1.7, 448.8 cm or 176.69 inches , 171.5 cm or 67.52 inches , 144 cm or 56.69 inches 
+Acura MDX 3.5 V6 Touring Pkg, 479.3 cm or 188.7 inches , 195.6 cm or 77.01 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6, 479.3 cm or 188.7 inches , 195.6 cm or 77.01 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6 Touring Pkg, 479.3 cm or 188.7 inches , 195.6 cm or 77.01 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6, 479.3 cm or 188.7 inches , 195.6 cm or 77.01 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6 Touring Pkg, 479.3 cm or 188.7 inches , 195.6 cm or 77.01 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6, 479.3 cm or 188.7 inches , 195.6 cm or 77.01 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6, 479.3 cm or 188.7 inches , 195.6 cm or 77.01 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6 Touring Pkg, 479.3 cm or 188.7 inches , 195.6 cm or 77.01 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6 Touring Pkg, 478.9 cm or 188.54 inches , 193.8 cm or 76.3 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6, 478.9 cm or 188.54 inches , 193.8 cm or 76.3 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6 Touring Pkg, 478.9 cm or 188.54 inches , 193.8 cm or 76.3 inches , 174.4 cm or 68.66 inches 
+Acura MDX 3.5 V6, 478.9 cm or 188.54 inches , 193.8 cm or 76.3 inches , 174.4 cm or 68.66 inches 
+Acura RSX Type-S, 437.4 cm or 172.2 inches , 172.5 cm or 67.91 inches , 140 cm or 55.12 inches 
+Acura RSX Auto, 437.4 cm or 172.2 inches , 172.5 cm or 67.91 inches , 140 cm or 55.12 inches 
+Acura RSX , 437.4 cm or 172.2 inches , 172.5 cm or 67.91 inches , 140 cm or 55.12 inches 
+Acura RSX Type-S, 437.4 cm or 172.2 inches , 172.5 cm or 67.91 inches , 140 cm or 55.12 inches 
+Acura RSX Auto, 437.4 cm or 172.2 inches , 172.5 cm or 67.91 inches , 140 cm or 55.12 inches 
+Acura RSX , 438 cm or 172.44 inches , 172.5 cm or 67.91 inches , 139.4 cm or 54.88 inches 
+Acura RSX Type-S, 437.4 cm or 172.2 inches , 172.5 cm or 67.91 inches , 140 cm or 55.12 inches 
+Acura RSX Auto, 437.4 cm or 172.2 inches , 172.5 cm or 67.91 inches , 140 cm or 55.12 inches 
+Acura RSX , 437.4 cm or 172.2 inches , 172.5 cm or 67.91 inches , 140 cm or 55.12 inches 
+Acura NSX-T (NA2) 3.2 V6 6-speed, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura NSX-T (NA2) 3.0 V6 Auto, 442.5 cm or 174.21 inches , 181 cm or 71.26 inches , 117 cm or 46.06 inches 
+Acura TSX 2.4i, 465.9 cm or 183.43 inches , 176.2 cm or 69.37 inches , 145.6 cm or 57.32 inches 
+Acura TSX 2.4i Auto, 465.9 cm or 183.43 inches , 176.2 cm or 69.37 inches , 145.6 cm or 57.32 inches 
+Acura TSX 2.4i Auto, 465.7 cm or 183.35 inches , 176.2 cm or 69.37 inches , 145.6 cm or 57.32 inches 
+Acura TSX 2.4i, 465.7 cm or 183.35 inches , 176.2 cm or 69.37 inches , 145.6 cm or 57.32 inches 
+Acura TSX 2.4i, 465.7 cm or 183.35 inches , 176.2 cm or 69.37 inches , 145.6 cm or 57.32 inches 
+Acura TSX 2.4i Auto, 465.7 cm or 183.35 inches , 176.2 cm or 69.37 inches , 145.6 cm or 57.32 inches 
+Acura TL III 3.5 Type-S Auto, 480.9 cm or 189.33 inches , 191.6 cm or 75.43 inches , 144.1 cm or 56.73 inches 
+Acura TL III 3.5 Type-S 6-speed, 480.9 cm or 189.33 inches , 191.6 cm or 75.43 inches , 144.1 cm or 56.73 inches 
+Acura TL III 3.2 Auto, 480.9 cm or 189.33 inches , 191.6 cm or 75.43 inches , 144.1 cm or 56.73 inches 
+Acura TL III 3.5 Type-S 6-speed, 480.9 cm or 189.33 inches , 191.6 cm or 75.43 inches , 144.1 cm or 56.73 inches 
+Acura TL III 3.5 Type-S Auto, 480.9 cm or 189.33 inches , 191.6 cm or 75.43 inches , 144.1 cm or 56.73 inches 
+Acura TL III 3.2 Auto, 480.9 cm or 189.33 inches , 191.6 cm or 75.43 inches , 144.1 cm or 56.73 inches 
+Acura TL III 3.2 6-speed, 480.9 cm or 189.33 inches , 183.5 cm or 72.24 inches , 144.1 cm or 56.73 inches 
+Acura TL III 3.2 Auto, 480.9 cm or 189.33 inches , 183.5 cm or 72.24 inches , 144.1 cm or 56.73 inches 
+Acura TL III 3.2 6-speed, 480.9 cm or 189.33 inches , 183.5 cm or 72.24 inches , 144.1 cm or 56.73 inches 
+Acura TL III 3.2 Auto, 480.9 cm or 189.33 inches , 183.5 cm or 72.24 inches , 144.1 cm or 56.73 inches 
+Acura RL (KB) 3.7 V6, 497.3 cm or 195.79 inches , 184.7 cm or 72.72 inches , 145.5 cm or 57.28 inches 
+Acura RL (KB) 3.7 V6, 497.3 cm or 195.79 inches , 184.7 cm or 72.72 inches , 145.5 cm or 57.28 inches 
+Acura RL (KB) 3.5 V6, 491.7 cm or 193.58 inches , 184.7 cm or 72.72 inches , 145.2 cm or 57.17 inches 
+Acura RL (KB) 3.5 V6, 491.7 cm or 193.58 inches , 184.7 cm or 72.72 inches , 145.2 cm or 57.17 inches 
+Acura RL (KB) 3.5 V6, 491.7 cm or 193.58 inches , 184.7 cm or 72.72 inches , 145.2 cm or 57.17 inches 
+Acura CSX 2.0i Type-S, 454.4 cm or 178.9 inches , 175.2 cm or 68.98 inches , 143.5 cm or 56.5 inches 
+Acura CSX 2.0i Auto, 454.4 cm or 178.9 inches , 175.2 cm or 68.98 inches , 143.5 cm or 56.5 inches 
+Acura CSX 2.0i, 454.4 cm or 178.9 inches , 175.2 cm or 68.98 inches , 143.5 cm or 56.5 inches 
+Acura CSX 2.0i Type-S, 454.4 cm or 178.9 inches , 175.2 cm or 68.98 inches , 143.5 cm or 56.5 inches 
+Acura CSX 2.0i Auto, 454.4 cm or 178.9 inches , 175.2 cm or 68.98 inches , 143.5 cm or 56.5 inches 
+Acura TL III 3.2 6-speed, 480.9 cm or 189.33 inches , 183.5 cm or 72.24 inches , 144.1 cm or 56.73 inches 
+Acura TL III 3.2 Auto, 480.9 cm or 189.33 inches , 183.5 cm or 72.24 inches , 144.1 cm or 56.73 inches 
+Acura CSX 2.0i, 454.4 cm or 178.9 inches , 175.2 cm or 68.98 inches , 143.5 cm or 56.5 inches 
+Acura CSX 2.0i, 454.4 cm or 178.9 inches , 175.2 cm or 68.98 inches , 143.5 cm or 56.5 inches 
+Acura CSX 2.0i Auto, 454.4 cm or 178.9 inches , 175.2 cm or 68.98 inches , 143.5 cm or 56.5 inches 
+Acura CSX 2.0i Type-S, 454.4 cm or 178.9 inches , 175.2 cm or 68.98 inches , 143.5 cm or 56.5 inches 
+Acura CSX 2.0i Auto, 454.4 cm or 178.9 inches ," 175.2 cm or 68.98 inches ", 143.5 cm or 56.5 inches 
+Acura CSX 2.0i, 454.4 cm or 178.9 inches , 175.2 cm or 68.98 inches , 143.5 cm or 56.5 inches 
+Acura MDX 2007 3.7 V6, 486.7 cm or 191.61 inches , 199.4 cm or 78.5 inches , 173.3 cm or 68.23 inches 
+Acura MDX 2007 3.7 V6 Sport, 484.4 cm or 190.71 inches , 199.4 cm or 78.5 inches , 173.3 cm or 68.23 inches 
+Acura MDX 2007 3.7 V6, 484.4 cm or 190.71 inches , 199.4 cm or 78.5 inches , 173.3 cm or 68.23 inches 
+Acura MDX 2007 3.7 V6 Sport, 484.5 cm or 190.75 inches , 199.4 cm or 78.5 inches , 173.2 cm or 68.19 inches 
+Acura MDX 2007 3.7 V6, 484.5 cm or 190.75 inches , 199.4 cm or 78.5 inches , 173.2 cm or 68.19 inches 
+Acura MDX 2007 3.7 V6 Sport, 484.5 cm or 190.75 inches , 199.5 cm or 78.54 inches , 172.5 cm or 67.91 inches 
+Acura MDX 2007 3.7 V6, 484.5 cm or 190.75 inches , 199.5 cm or 78.54 inches , 172.5 cm or 67.91 inches 
+Acura RDX 2.3T SH-AWD, 463.5 cm or 182.48 inches , 187 cm or 73.62 inches , 165.5 cm or 65.16 inches 
+Acura RDX 2.3T 2WD, 463.5 cm or 182.48 inches , 187 cm or 73.62 inches , 165.5 cm or 65.16 inches 
+Acura RDX 2.3T SH-AWD, 463.5 cm or 182.48 inches , 187 cm or 73.62 inches , 165.5 cm or 65.16 inches 
+Acura RDX 2.3T 2WD, 463.5 cm or 182.48 inches , 187 cm or 73.62 inches , 165.5 cm or 65.16 inches 
+Acura RDX 2.3T SH-AWD, 459 cm or 180.71 inches , 186.9 cm or 73.58 inches , 165.6 cm or 65.2 inches 
+Acura RDX 2.3T SH-AWD, 459 cm or 180.71 inches , 186.9 cm or 73.58 inches , 165.6 cm or 65.2 inches 
+Acura TSX II 3.5i V6, 471.5 cm or 185.63 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TSX II 2.4i 6-speed, 471.5 cm or 185.63 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TSX II 2.4i Auto, 471.5 cm or 185.63 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TSX II 2.4i 6-speed, 471.5 cm or 185.63 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TSX II 3.5i V6, 471.5 cm or 185.63 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TSX II 2.4i Auto, 471.5 cm or 185.63 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TSX II 2.4i 6-speed, 472.6 cm or 186.06 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TSX II 2.4i Auto, 472.6 cm or 186.06 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TSX II 3.5i V6, 472.6 cm or 186.06 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TSX II 2.4i Auto, 472.6 cm or 186.06 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TSX II 2.4i 6-speed, 472.6 cm or 186.06 inches , 184 cm or 72.44 inches , 144 cm or 56.69 inches 
+Acura TL IV 3.7 SH-AWD Auto, 496.6 cm or 195.51 inches , 188 cm or 74.02 inches , 145.2 cm or 57.17 inches 
+Acura TL IV 3.7 SH-AWD 6-speed, 496.6 cm or 195.51 inches , 188 cm or 74.02 inches , 145.2 cm or 57.17 inches 
+Acura TL IV 3.5, 496.6 cm or 195.51 inches , 188 cm or 74.02 inches , 145.2 cm or 57.17 inches 
+Acura TL IV 3.7 SH-AWD Auto, 496.6 cm or 195.51 inches , 188 cm or 74.02 inches , 145.2 cm or 57.17 inches 
+Acura TL IV 3.7 SH-AWD 6-speed, 496.6 cm or 195.51 inches , 188 cm or 74.02 inches , 145.2 cm or 57.17 inches 
+Acura TL IV 3.5, 496.6 cm or 195.51 inches , 188 cm or 74.02 inches , 145.2 cm or 57.17 inches 
+Acura TL IV 3.7 SH-AWD 6-speed, 496.6 cm or 195.51 inches , 188 cm or 74.02 inches , 145.2 cm or 57.17 inches 
+Acura TL IV 3.7 SH-AWD Auto, 496.6 cm or 195.51 inches , 188 cm or 74.02 inches , 145.2 cm or 57.17 inches 
+Acura TL IV 3.5, 496.6 cm or 195.51 inches , 188 cm or 74.02 inches , 145.2 cm or 57.17 inches 
+Acura ZDX 3.7 V6, 488.7 cm or 192.4 inches , 199.3 cm or 78.46 inches , 159.6 cm or 62.83 inches 
+Acura TSX Sport Wagon 2.4i Auto, 480.5 cm or 189.17 inches , 184 cm or 72.44 inches , 147 cm or 57.87 inches 
+Acura TSX Sport Wagon 2.4i Auto, 480.5 cm or 189.17 inches , 184 cm or 72.44 inches , 147 cm or 57.87 inches 
+Acura RDX 2013 3.5 V6 SH-AWD, 466 cm or 183.46 inches , 187.2 cm or 73.7 inches , 167.8 cm or 66.06 inches 
+Acura RDX 2013 3.5 V6 FWD, 466 cm or 183.46 inches , 187.2 cm or 73.7 inches , 167.8 cm or 66.06 inches 
+Acura ILX 2013 Hybrid, 455 cm or 179.13 inches , 179.4 cm or 70.63 inches , 141.2 cm or 55.59 inches 
+Acura ILX 2013 2.4i, 455 cm or 179.13 inches , 179.4 cm or 70.63 inches , 141.2 cm or 55.59 inches 
+Acura ILX 2013 2.0i, 455 cm or 179.13 inches , 179.4 cm or 70.63 inches , 141.2 cm or 55.59 inches 
+Acura ILX 2013 2.4i, 455 cm or 179.13 inches , 179.4 cm or 70.63 inches , 141.2 cm or 55.59 inches 
+Acura ILX 2013 2.0i, 455 cm or 179.13 inches , 179.4 cm or 70.63 inches , 141.2 cm or 55.59 inches 
+Acura MDX 2014 3.5 V6 SH-AWD Advance Pkg, 491.7 cm or 193.58 inches , 196.2 cm or 77.24 inches , 171.6 cm or 67.56 inches 
+Acura MDX 2014 3.5 V6 SH-AWD, 491.7 cm or 193.58 inches , 196.2 cm or 77.24 inches , 171.6 cm or 67.56 inches 
+Acura MDX 2014 3.5 V6 FWD Advance Pkg, 491.7 cm or 193.58 inches , 196.2 cm or 77.24 inches , 171.6 cm or 67.56 inches 
+Acura MDX 2014 3.5 V6 FWD, 491.7 cm or 193.58 inches , 196.2 cm or 77.24 inches , 171.6 cm or 67.56 inches 
+Acura MDX 2014 3.5 V6 SH-AWD, 491.7 cm or 193.58 inches , 196.2 cm or 77.24 inches , 171.6 cm or 67.56 inches 
+Acura MDX 2014 3.5 V6 FWD, 491.7 cm or 193.58 inches , 196.2 cm or 77.24 inches , 171.6 cm or 67.56 inches 
+Acura RLX 2014 3.5 V6 Sport Hybrid SH-AWD, 498.2 cm or 196.14 inches , 189 cm or 74.41 inches , 146.6 cm or 57.72 inches 
+Acura RLX 2014 3.5 V6 Advance Pkg, 498.2 cm or 196.14 inches , 189 cm or 74.41 inches , 146.5 cm or 57.68 inches 
+Acura RLX 2014 3.5 V6, 498.2 cm or 196.14 inches , 189 cm or 74.41 inches , 146.5 cm or 57.68 inches 
+Acura RLX 2014 3.5 V6 Advance Pkg, 498.2 cm or 196.14 inches , 189 cm or 74.41 inches , 146.5 cm or 57.68 inches 
+Acura RLX 2014 3.5 V6, 498.2 cm or 196.14 inches , 189 cm or 74.41 inches , 146.5 cm or 57.68 inches 
+Acura RLX 2014 3.5 V6 Advance Pkg, 498.2 cm or 196.14 inches , 189 cm or 74.41 inches , 146.5 cm or 57.68 inches 
+Acura RLX 2014 3.5 V6, 498.2 cm or 196.14 inches , 189 cm or 74.41 inches , 146.5 cm or 57.68 inches 
+Acura TLX 2015 V6 SH-AWD GT Package, 483.4 cm or 190.31 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura TLX 2015 V6 GT Package, 483.4 cm or 190.31 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura TLX 2015 2.4 GT Package, 483.4 cm or 190.31 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura TLX 2015 V6 SH-AWD, 483.4 cm or 190.31 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura TLX 2015 V6, 483.4 cm or 190.31 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura TLX 2015 2.4, 483.4 cm or 190.31 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura RDX 2016 3.5 V6 SH-AWD, 468.4 cm or 184.41 inches , 187.2 cm or 73.7 inches , 165.1 cm or 65 inches 
+Acura RDX 2016 3.5 V6 FWD, 468.4 cm or 184.41 inches , 187.2 cm or 73.7 inches , 165.1 cm or 65 inches 
+Acura RDX 2016 3.5 V6 SH-AWD, 468.4 cm or 184.41 inches , 187.2 cm or 73.7 inches , 165.1 cm or 65 inches 
+Acura RDX 2016 3.5 V6 FWD, 468.4 cm or 184.41 inches , 187.2 cm or 73.7 inches , 165.1 cm or 65 inches 
+Acura ILX 2016 2.4i A-Spec, 462 cm or 181.89 inches , 179.4 cm or 70.63 inches , 141.2 cm or 55.59 inches 
+Acura ILX 2016 2.4i, 462 cm or 181.89 inches , 179.4 cm or 70.63 inches , 141.2 cm or 55.59 inches 
+Acura NSX 2018 3.5 V6 Hybrid, 447.3 cm or 176.1 inches , 221.7 cm or 87.28 inches , 121.4 cm or 47.8 inches 
+Acura NSX 2018 3.5 V6 Hybrid, 447 cm or 175.98 inches , 221.7 cm or 87.28 inches , 121.4 cm or 47.8 inches 
+Acura MDX 2017 Hybrid SH-AWD, 498.4 cm or 196.22 inches , 197.4 cm or 77.72 inches , 171.2 cm or 67.4 inches 
+Acura MDX 2017 Hybrid SH-AWD, 498.4 cm or 196.22 inches , 196.2 cm or 77.24 inches , 171.3 cm or 67.44 inches 
+Acura MDX 2017 3.5 V6 FWD, 498.4 cm or 196.22 inches , 197.4 cm or 77.72 inches , 171.2 cm or 67.4 inches 
+Acura MDX 2017 3.5 V6 FWD Advance Pkg, 498.4 cm or 196.22 inches , 197.4 cm or 77.72 inches , 171.2 cm or 67.4 inches 
+Acura MDX 2017 3.5 V6 SH-AWD, 498.4 cm or 196.22 inches , 197.4 cm or 77.72 inches , 171.2 cm or 67.4 inches 
+Acura MDX 2017 3.5 V6 SH-AWD A-Spec, 498.4 cm or 196.22 inches , 197.4 cm or 77.72 inches , 171.2 cm or 67.4 inches 
+Acura MDX 2017 3.5 V6 SH-AWD Advance Pkg, 498.4 cm or 196.22 inches , 197.4 cm or 77.72 inches , 171.2 cm or 67.4 inches 
+Acura MDX 2017 3.5 V6 SH-AWD, 498.4 cm or 196.22 inches , 196.2 cm or 77.24 inches , 171.3 cm or 67.44 inches 
+Acura MDX 2017 3.5 V6 FWD Advance Pkg, 498.4 cm or 196.22 inches , 196.2 cm or 77.24 inches , 171.3 cm or 67.44 inches 
+Acura MDX 2017 3.5 V6 FWD, 498.4 cm or 196.22 inches , 196.2 cm or 77.24 inches , 171.3 cm or 67.44 inches 
+Acura MDX 2017 3.5 V6 SH-AWD Advance Pkg, 498.4 cm or 196.22 inches , 196.2 cm or 77.24 inches , 171.3 cm or 67.44 inches 
+Acura TLX 2018 2.4 A-Spec, 486.9 cm or 191.69 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura TLX 2018 V6 SH-AWD A-Spec, 486.9 cm or 191.69 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura TLX 2018 V6 SH-AWD, 486.9 cm or 191.69 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura TLX 2018 V6 A-Spec, 486.9 cm or 191.69 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura TLX 2018 V6, 486.9 cm or 191.69 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura TLX 2018 2.4, 486.9 cm or 191.69 inches , 185.4 cm or 72.99 inches , 144.8 cm or 57.01 inches 
+Acura RLX 2018 3.5 V6 Sport Hybrid SH-AWD, 503.2 cm or 198.11 inches , 189 cm or 74.41 inches , 146.6 cm or 57.72 inches 
+Acura RLX 2018 3.5 V6, 503.2 cm or 198.11 inches , 189 cm or 74.41 inches , 146.6 cm or 57.72 inches 
+Acura RDX 2019 2.0T PMC Edition, 474.4 cm or 186.77 inches , 190 cm or 74.8 inches , 166.9 cm or 65.71 inches 
+Acura RDX 2019 2.0T SH-AWD A-Spec, 474.4 cm or 186.77 inches , 190 cm or 74.8 inches , 166.9 cm or 65.71 inches 
+Acura RDX 2019 2.0T SH-AWD, 474.4 cm or 186.77 inches , 190 cm or 74.8 inches , 166.9 cm or 65.71 inches 
+Acura RDX 2019 2.0T FWD A-Spec, 474.4 cm or 186.77 inches , 190 cm or 74.8 inches , 166.9 cm or 65.71 inches 
+Acura RDX 2019 2.0T FWD, 474.4 cm or 186.77 inches , 190 cm or 74.8 inches , 166.9 cm or 65.71 inches 
+Acura ILX 2019 2.4i A-Spec, 462.8 cm or 182.2 inches , 179.4 cm or 70.63 inches , 141.3 cm or 55.63 inches 
+Acura ILX 2019 2.4i, 462.8 cm or 182.2 inches , 179.4 cm or 70.63 inches , 141.3 cm or 55.63 inches 
+Acura TLX 2021 SH-AWD A-Spec, 494.3 cm or 194.61 inches , 191 cm or 75.2 inches , 143.3 cm or 56.42 inches 
+Acura TLX 2021 SH-AWD, 494.3 cm or 194.61 inches , 191 cm or 75.2 inches , 143.3 cm or 56.42 inches 
+Acura TLX 2021 A-Spec, 494.3 cm or 194.61 inches , 191 cm or 75.2 inches , 143.3 cm or 56.42 inches 
+Acura TLX 2021 , 494.3 cm or 194.61 inches , 191 cm or 75.2 inches , 143.3 cm or 56.42 inches 
+Acura MDX 2022 3.5 V6 SH-AWD, 503.9 cm or 198.39 inches , 199.9 cm or 78.7 inches , 170.4 cm or 67.09 inches 
+Acura MDX 2022 3.5 V6 FWD, 503.9 cm or 198.39 inches , 199.9 cm or 78.7 inches , 170.4 cm or 67.09 inches 
+Adler 1 Litre , - cm or - inches , - cm or - inches , - cm or - inches 
+Adler 10 1.3, 365.8 cm or 144.02 inches , 165.1 cm or 65 inches , - cm or - inches 
+Adler 12 1.8, 381 cm or 150 inches , 165.1 cm or 65 inches , - cm or - inches 
+Adler Trumpf 1.0 Junior, - cm or - inches , - cm or - inches , - cm or - inches 
+Adler Trumpf 2.1 Junior, - cm or - inches , - cm or - inches , - cm or - inches 
+Adler Trumpf 1.7 Junior, - cm or - inches , - cm or - inches , - cm or - inches 
+Aiways U5 Premium, 468 cm or 184.25 inches , 186.5 cm or 73.43 inches , 170 cm or 66.93 inches 
+Aixam Evolution 400, 261 cm or 102.76 inches , 137.5 cm or 54.13 inches , - cm or  - inches 
+Aixam Evolution 300, 261 cm or 102.76 inches , 137.5 cm or 54.13 inches ,  - cm or - inches 
+Alfa Romeo 6C 1750 Gran Turismo, 437 cm or 172.05 inches , 173 cm or 68.11 inches , 170 cm or 66.93 inches 
+Alfa Romeo 6C 1750 Turismo, - cm or - inches , - cm or - inches , - cm or - inches 
+Alfa Romeo 6C 1750 Super Sport , - cm or - inches , - cm or - inches , - cm or - inches 
+Alfa Romeo 6C 1750 Super Sport Compressor, 405 cm or 159.45 inches , 173 cm or 68.11 inches , 142 cm or 55.91 inches 
+Alfa Romeo 6C 1750 Super Sport , - cm or - inches , - cm or - inches , - cm or - inches 
+Alfa Romeo 6C 1900 Gran Turismo, - cm or - inches , - cm or - inches , - cm or - inches 
+Alfa Romeo 6C 2300 Gran Turismo , 438 cm or 172.44 inches , 180 cm or 70.87 inches , 162 cm or 63.78 inches 
+Alfa Romeo 6C 2300 Gran Turismo Castagna , 440 cm or 173.23 inches , 180 cm or 70.87 inches , 162 cm or 63.78 inches 
+Alfa Romeo 8C 2900 B Lungo, 515 cm or 202.76 inches , 177 cm or 69.69 inches , 150 cm or 59.06 inches 
+Alfa Romeo 8C 2900 B Lungo, 442 cm or 174.02 inches , 167.6 cm or 65.98 inches , - cm or - inches 
+Alfa Romeo 8C 2900 B, 416.6 cm or 164.02 inches , 167.6 cm or 65.98 inches , - cm or - inches 
+Alfa Romeo 6C 2300 B Mille Miglia, 464 cm or 182.68 inches , 168 cm or 66.14 inches , 155 cm or 61.02 inches 
+Alfa Romeo 6C 2300 B , 464 cm or 182.68 inches , 168 cm or 66.14 inches , 155 cm or 61.02 inches 
+Alfa Romeo 6C 2300 B Corto , 488 cm or 192.13 inches , 185 cm or 72.83 inches , 165 cm or 64.96 inches 
+Alfa Romeo 6C 2500 Sport, 500 cm or 196.85 inches , 183 cm or 72.05 inches , 157 cm or 61.81 inches 
+Alfa Romeo 6C 2500 , 487.7 cm or 192.01 inches , 183 cm or 72.05 inches , - cm or - inches 
+Alfa Romeo 6C 2500 Super Sport , 468 cm or 184.25 inches , 190 cm or 74.8 inches , 150 cm or 59.06 inches 
+Alfa Romeo 1900 Berlina Super, 440 cm or 173.23 inches , 160 cm or 62.99 inches , 149 cm or 58.66 inches 
+Alfa Romeo 1900 Berlina , 440 cm or 173.23 inches , 160 cm or 62.99 inches , 149 cm or 58.66 inches 
+Alfa Romeo 1900C Super Sprint Coupe, 440 cm or 173.23 inches , 163 cm or 64.17 inches , 135 cm or 53.15 inches 
+Alfa Romeo 1900C Cabriolet, 433.5 cm or 170.67 inches , 162.5 cm or 63.98 inches , 138 cm or 54.33 inches 
+Alfa Romeo 1900C , 440.5 cm or 173.43 inches , 163 cm or 64.17 inches , 135 cm or 53.15 inches 
+Alfa Romeo 1900M AR 51 La Matta, 352 cm or 138.58 inches , 157 cm or 61.81 inches , 182 cm or 71.65 inches 
+Alfa Romeo 6C 3000 CM, - cm or - inches , - cm or - inches , - cm or - inches 
+Alfa Romeo Giulietta Sprint Veloce, 398 cm or 156.69 inches , 153 cm or 60.24 inches , 132 cm or 51.97 inches 
+Alfa Romeo Giulietta Sprint , 398 cm or 156.69 inches , 153 cm or 60.24 inches , 132 cm or 51.97 inches 
+Alfa Romeo 1900 Sport Spider , 385 cm or 151.57 inches , 155 cm or 61.02 inches , 107 cm or 42.13 inches 
+Alfa Romeo Giulietta Berlina TI, 398.8 cm or 157.01 inches , 156.2 cm or 61.5 inches , 142.2 cm or 55.98 inches 
+Alfa Romeo Giulietta Berlina TI, 398.8 cm or 157.01 inches , 156.2 cm or 61.5 inches , 142.2 cm or 55.98 inches 
+Alfa Romeo Giulietta Berlina , 399 cm or 157.09 inches , 155 cm or 61.02 inches , 148.5 cm or 58.46 inches 
+Alfa Romeo Giulietta Berlina TI, 392 cm or 154.33 inches , 154.3 cm or 60.75 inches , 132 cm or 51.97 inches 
+Alfa Romeo 2000 Sportiva Coupe , 416 cm or 163.78 inches , 154 cm or 60.63 inches , 112 cm or 44.09 inches 
+Alfa Romeo Giulietta Spider Veloce, 340 cm or 133.86 inches , 154 cm or 60.63 inches , 118 cm or 46.46 inches 
+Alfa Romeo Giulietta Spider , 340 cm or 133.86 inches , 154 cm or 60.63 inches , 118 cm or 46.46 inches 
+Alfa Romeo 2000 (Tipo 102) Berlina, 471 cm or 185.43 inches , 170 cm or 66.93 inches , 143 cm or 56.3 inches 
+Alfa Romeo 2000 Spider , 449.6 cm or 177.01 inches , 165 cm or 64.96 inches , 132 cm or 51.97 inches 
+Alfa Romeo 2000 Sprint , 436.9 cm or 172.01 inches , 170.2 cm or 67.01 inches , 132.1 cm or 52.01 inches 
+Alfa Romeo Giulietta Sprint Zagato , 300 cm or 118.11 inches , 155 cm or 61.02 inches , 122 cm or 48.03 inches 
+Alfa Romeo 2600 Spider , 449.6 cm or 177.01 inches , 165.1 cm or 65 inches , 132.1 cm or 52.01 inches 
+Alfa Romeo 2600 Berlina , 472.5 cm or 186.02 inches , 170.2 cm or 67.01 inches , 140 cm or 55.12 inches 
+Alfa Romeo Giulia Sprint , 398 cm or 156.69 inches , 154 cm or 60.63 inches , 135 cm or 53.15 inches 
+Alfa Romeo Giulia 1300 Super, 416 cm or 163.78 inches , 156 cm or 61.42 inches , 143 cm or 56.3 inches 
+Alfa Romeo Giulia Super, 416 cm or 163.78 inches , 157.5 cm or 62.01 inches , 147.3 cm or 57.99 inches 
+Alfa Romeo Giulia 1600S, 416 cm or 163.78 inches , 156 cm or 61.42 inches , 143 cm or 56.3 inches 
+Alfa Romeo Giulia 1300 TI, 416 cm or 163.78 inches , 156 cm or 61.42 inches , 143 cm or 56.3 inches 
+Alfa Romeo Giulia 1300 TI, 414 cm or 162.99 inches , 156 cm or 61.42 inches , 143 cm or 56.3 inches 
+Alfa Romeo Giulia Super, 416 cm or 163.78 inches , 157.5 cm or 62.01 inches , 147.3 cm or 57.99 inches 
+Alfa Romeo Giulia 1300, 411 cm or 161.81 inches , 156 cm or 61.42 inches , 143 cm or 56.3 inches 
+Alfa Romeo Giulia TI Super, 411.5 cm or 162.01 inches , 156 cm or 61.42 inches , 143 cm or 56.3 inches 
+Alfa Romeo Giulia 1600 TI, 420.4 cm or 165.51 inches , 155.3 cm or 61.14 inches , 142.9 cm or 56.26 inches 
+Alfa Romeo 2600 Sprint , 436.9 cm or 172.01 inches , 170.2 cm or 67.01 inches , 132.1 cm or 52.01 inches 
+Alfa Romeo Giulia TZ TZ2, 368 cm or 144.88 inches , 160 cm or 62.99 inches , 102 cm or 40.16 inches 
+Alfa Romeo Giulia TZ , 395 cm or 155.51 inches , 150.9 cm or 59.41 inches , 119.9 cm or 47.2 inches 
+Alfa Romeo 2600 HS Bertone , 458 cm or 180.31 inches , 170.6 cm or 67.17 inches , 138 cm or 54.33 inches 
+Alfa Romeo Giulia Sprint Speciale , 408 cm or 160.63 inches , 158 cm or 62.2 inches , 131.5 cm or 51.77 inches 
+Alfa Romeo Canguro Concept, 390 cm or 153.54 inches , 160 cm or 62.99 inches , 106 cm or 41.73 inches 
+Alfa Romeo 2600 Berlina De Luxe , 480 cm or 188.98 inches , 177 cm or 69.69 inches , 140 cm or 55.12 inches 
+Alfa Romeo Giulia Sprint GTA , 408 cm or 160.63 inches , 158 cm or 62.2 inches , 131 cm or 51.57 inches 
+Alfa Romeo 2600 SZ Sprint Zagato, 440 cm or 173.23 inches , 163 cm or 64.17 inches , 130 cm or 51.18 inches 
+Alfa Romeo Giulia GT 1300 Junior , 408 cm or 160.63 inches , 158 cm or 62.2 inches , 131 cm or 51.57 inches 
+Alfa Romeo Spider Series 1 Duetto 1750 Veloce, 425.5 cm or 167.52 inches , 162.6 cm or 64.02 inches , 129.5 cm or 50.98 inches 
+Alfa Romeo Spider Series 1 Duetto 1600, 425.5 cm or 167.52 inches , 162.6 cm or 64.02 inches , 129.5 cm or 50.98 inches 
+Alfa Romeo Scarabeo , 372 cm or 146.46 inches , 156 cm or 61.42 inches , 102 cm or 40.16 inches 
+Alfa Romeo 1750 GTV , 408.9 cm or 160.98 inches , 157.5 cm or 62.01 inches , 132.1 cm or 52.01 inches 
+Alfa Romeo 33 Stradale , 397 cm or 156.3 inches , 171 cm or 67.32 inches , 99.1 cm or 39.02 inches 
+Alfa Romeo Giulia Sprint GTV 1600, 408.9 cm or 160.98 inches , 157.5 cm or 62.01 inches , 132.1 cm or 52.01 inches 
+Alfa Romeo Giulia GTA 1300 Junior , 408 cm or 160.63 inches , 158 cm or 62.2 inches , 131 cm or 51.57 inches 
+Alfa Romeo Giulia GT Junior Z 1600, 400 cm or 157.48 inches , 155 cm or 61.02 inches , 128 cm or 50.39 inches 
+Alfa Romeo Giulia GT Junior Z 1300, 390 cm or 153.54 inches , 155 cm or 61.02 inches , 128 cm or 50.39 inches 
+Alfa Romeo Spider Series 2 1.6 Veloce, 412 cm or 162.2 inches , 163 cm or 64.17 inches , 129 cm or 50.79 inches 
+Alfa Romeo Spider Series 2 1600 Junior, 412 cm or 162.2 inches , 163 cm or 64.17 inches , 129 cm or 50.79 inches 
+Alfa Romeo Spider Series 2 2000 Veloce, 413 cm or 162.6 inches , 163.2 cm or 64.25 inches , 129 cm or 50.79 inches 
+Alfa Romeo Spider Series 2 1300 Junior, 412 cm or 162.2 inches , 162.6 cm or 64.02 inches , 129.5 cm or 50.98 inches 
+Alfa Romeo Spider Series 2 1750 Veloce, 412 cm or 162.2 inches , 163 cm or 64.17 inches , 129 cm or 50.79 inches 
+Alfa Romeo 1750 Berlina , 439.4 cm or 172.99 inches , 157.5 cm or 62.01 inches , 143 cm or 56.3 inches 
+Alfa Romeo 2000 Berlina , 439.4 cm or 172.99 inches , 156.2 cm or 61.5 inches , 143.5 cm or 56.5 inches 
+Alfa Romeo Alfasud Ti 1.5 QV, 397.8 cm or 156.61 inches , 161.6 cm or 63.62 inches , 137 cm or 53.94 inches 
+Alfa Romeo Alfasud 1.5 QO, 397.8 cm or 156.61 inches , 159 cm or 62.6 inches , 137 cm or 53.94 inches 
+Alfa Romeo Alfasud Ti 1.3, 393.5 cm or 154.92 inches , 159 cm or 62.6 inches , 137 cm or 53.94 inches 
+Alfa Romeo Alfasud Super 1.3, 393.5 cm or 154.92 inches , 159 cm or 62.6 inches , 137 cm or 53.94 inches 
+Alfa Romeo Alfasud Ti 1.5, 393.5 cm or 154.92 inches , 161.6 cm or 63.62 inches , 137 cm or 53.94 inches 
+Alfa Romeo Alfasud Super 1.5, 393.5 cm or 154.92 inches , 159 cm or 62.6 inches , 137 cm or 53.94 inches 
+Alfa Romeo Alfasud Super 1.2 Junior, 393.5 cm or 154.92 inches , 159 cm or 62.6 inches , 137 cm or 53.94 inches 
+Alfa Romeo Alfasud Ti, 393.5 cm or 154.92 inches , 159 cm or 62.6 inches , 137 cm or 53.94 inches 
+Alfa Romeo Alfasud Series I, 393.5 cm or 154.92 inches , 159 cm or 62.6 inches , 137 cm or 53.94 inches 
+Alfa Romeo Giulia GT 1600 Junior , 408 cm or 160.63 inches , 158 cm or 62.2 inches , 131 cm or 51.57 inches 
+Alfa Romeo Giulia Nuova Super Diesel, 418.5 cm or 164.76 inches , 156 cm or 61.42 inches , 143 cm or 56.3 inches 
+Alfa Romeo Giulia Nuova Super 1600, 418.5 cm or 164.76 inches , 156 cm or 61.42 inches , 143 cm or 56.3 inches 
+Alfa Romeo Giulia Nuova Super 1300, 418.5 cm or 164.76 inches , 156 cm or 61.42 inches , 143 cm or 56.3 inches 
+Alfa Romeo Alfetta 2.4 Turbo D, 438.5 cm or 172.64 inches , 164 cm or 64.57 inches , 143 cm or 56.3 inches 
+Alfa Romeo Alfetta 2.0 TD, 438.5 cm or 172.64 inches , 164 cm or 64.57 inches , 143 cm or 56.3 inches 
+Alfa Romeo Alfetta 2.0 Quadrifoglio, 438.5 cm or 172.64 inches , 164 cm or 64.57 inches , 143 cm or 56.3 inches 
+Alfa Romeo Alfetta 2.0 QO, 438.5 cm or 172.64 inches , 164 cm or 64.57 inches , 143 cm or 56.3 inches 
+"Alfa Romeo Alfetta 2.0 Li ""America""", 438.5 cm or 172.64 inches , 164 cm or 64.57 inches , 143 cm or 56.3 inches 
+Alfa Romeo Alfetta 2.0i, 438.5 cm or 172.64 inches , 164 cm or 64.57 inches , 143 cm or 56.3 inches 
+Alfa Romeo Alfetta 1.8, 428 cm or 168.5 inches , 162 cm or 63.78 inches , 143 cm or 56.3 inches 
+Alfa Romeo Alfetta 1.6, 438.5 cm or 172.64 inches , 164 cm  or 64.57 inches , 143 cm or 56.3 inches 
+Alfa Romeo Alfetta GT 1.8, 419 cm or 164.96 inches , 166 cm or 65.35 inches , 133 cm or 52.36 inches 
+Alfa Romeo Alfetta GT 1.6, 419 cm or 164.96 inches , 166 cm or 65.35 inches , 133 cm or 52.36 inches 
+Alfa Romeo Alfetta GTV 2.0, 419 cm or 164.96 inches , 166 cm or 65.35 inches , 133 cm or 52.36 inches 
+Alfa Romeo Alfetta GTV 2000 Turbodelta, 419 cm or 164.96 inches , 166 cm or 65.35 inches , 133 cm or 52.36 inches 
+Alfa Romeo Alfetta GTV 2000L, 419 cm or 164.96 inches , 166 cm or 65.35 inches , 133 cm or 52.36 inches 
+Alfa Romeo Alfetta GTV 2.6i V8, 420.5 cm or 165.55 inches , 166 cm or 65.35 inches , 133 cm or 52.36 inches 
+Alfa Romeo Alfetta GTV 2000 (USA), 419 cm or 164.96 inches , 166 cm or 65.35 inches , 133 cm or 52.36 inches 
+Alfa Romeo Alfetta GTV 2000, 419 cm or 164.96 inches , 166 cm or 65.35 inches , 133 cm or 52.36 inches 
+Alfa Romeo Nuova Giulietta 2.0 Turbo Diesel, 421 cm or 165.75 inches , 165 cm or 64.96 inches , 140 cm or 55.12 inches 
+Alfa Romeo Nuova Giulietta Turbo AutoDelta, 421 cm or 165.75 inches , 165 cm or 64.96 inches , 140 cm or 55.12 inches 
+Alfa Romeo Nuova Giulietta 2.0, 421 cm or 165.75 inches , 165 cm or 64.96 inches , 140 cm or 55.12 inches 
+Alfa Romeo Nuova Giulietta 1.8, 421 cm or 165.75 inches , 165 cm or 64.96 inches , 140 cm or 55.12 inches 
+Alfa Romeo Nuova Giulietta 1.6, 421 cm or 165.75 inches , 165 cm or 64.96 inches , 140 cm or 55.12 inches 
+Alfa Romeo Nuova Giulietta 1.3, 421 cm or 165.75 inches , 165 cm or 64.96 inches , 140 cm or 55.12 inches 
+Alfa Romeo Sprint 1.7 QV IE Cat, 402.4 cm or 158.43 inches , 162 cm or 63.78 inches , 130.5 cm or 51.38 inches 
+Alfa Romeo Sprint 1.7 QV, 402.4 cm or 158.43 inches , 162 cm or 63.78 inches , 130.5 cm or 51.38 inches 
+Alfa Romeo Sprint 1.5 QV, 402.4 cm or 158.43 inches , 162 cm or 63.78 inches , 129.7 cm or 51.06 inches 
+Alfa Romeo Sprint 6 C, 402.4 cm or 158.43 inches , 162 cm or 63.78 inches , 129.7 cm or 51.06 inches 
+Alfa Romeo Sprint 1.3, 402 cm or 158.27 inches , 162 cm or 63.78 inches , 130.5 cm or 51.38 inches 
+Alfa Romeo 2300 Ti-4, 472 cm or 185.83 inches , 169 cm or 66.54 inches , 136 cm or 53.54 inches 
+Alfa Romeo 2300 TI, 472 cm or 185.83 inches , 169 cm or 66.54 inches , 144 cm or 56.69 inches 
+Alfa Romeo 2300 B, 472 cm or 185.83 inches , 169 cm or 66.54 inches , 144 cm or 56.69 inches 
+Alfa Romeo GTV6 3.0 V6, 426 cm or 167.72 inches , 166.4 cm or 65.51 inches , 133.1 cm or 52.4 inches 
+Alfa Romeo GTV6 2.5 V6, 426 cm or 167.72 inches , 166.4 cm or 65.51 inches , 133 cm or 52.36 inches 
+Alfa Romeo Spider Series 3 2000 Veloce, 424.7 cm or 167.2 inches , 163 cm or 64.17 inches , 129 cm or 50.79 inches 
+Alfa Romeo Spider Series 3 2000 QV Quadrifoglio Verde, 427 cm or 168.11 inches , 163 cm or 64.17 inches , 129 cm or 50.79 inches 
+Alfa Romeo Spider Series 3 Aerodinamica 1600, 412 cm or 162.2 inches , 163 cm or 64.17 inches , 129 cm or 50.79 inches 
+Alfa Romeo Spider Series 3 Aerodinamica 2000, 424.7 cm or 167.2 inches , 163 cm or 64.17 inches , 129 cm or 50.79 inches 
+Alfa Romeo 33 1.8 TD i, 407.5 cm or 160.43 inches , 161.4 cm or 63.54 inches , 134.5 cm or 52.95 inches 
+Alfa Romeo 33 1.8 TD, 404 cm or 159.06 inches , 161.2 cm or 63.46 inches , 134.5 cm or 52.95 inches 
+Alfa Romeo 33 1.4/1.3 IE Imola, 407 cm or 160.24 inches , 161 cm or 63.39 inches , 135 cm or 53.15 inches 
+Alfa Romeo 33 Q4, 407.5 cm or 160.43 inches , 161.4 cm or 63.54 inches , 137.5 cm or 54.13 inches 
+Alfa Romeo 33 1.7 16v Qv S P4, 407.5 cm or 160.43 inches , 161.4 cm or 63.54 inches , 137.5 cm or 54.13 inches 
+Alfa Romeo 33 1.3 Veloce, 407.5 cm or 160.43 inches , 161.4 cm or 63.54 inches , 135 cm or 53.15 inches 
+Alfa Romeo 33 1.7 16v QV, 407 cm or 160.24 inches , 161 cm or 63.39 inches , 135 cm or 53.15 inches 
+Alfa Romeo 33 1.2, 407.5 cm or 160.43 inches , 161.4 cm or 63.54 inches , 135 cm or 53.15 inches 
+Alfa Romeo 33 1.5 IE, 407.5 cm or 160.43 inches , 161.3 cm or 63.5 inches , 135 cm or 53.15 inches 
+Alfa Romeo 33 1.3 VL, 407 cm or 160.24 inches , 161 cm or 63.39 inches , 135 cm or 53.15 inches 
+Alfa Romeo 33 1.7 4x4, 407.5 cm or 160.43 inches , 161.4 cm or 63.54 inches , 135 cm or 53.15 inches 
+Alfa Romeo 33 1.7 IE, 401.5 cm or 158.07 inches , 161.2 cm or 63.46 inches , 134.5 cm or 52.95 inches 
+Alfa Romeo 33 1.5 4x4, 401.5 cm or 158.07 inches , 161.2 cm or 63.46 inches , 137 cm or 53.94 inches 
+Alfa Romeo 33 1.3, 401.5 cm or 158.07 inches , 161.2 cm or 63.46 inches , 130.5 cm or  51.38 inches 
+Alfa Romeo 33 1.7 QV, 401.5 cm or 158.07 inches , 161.2 cm or 63.46 inches , 134 cm or 52.76 inches 
+Alfa Romeo 33 1.3S, 401.5 cm or 158.07 inches , 161.2 cm or 63.46 inches , 136.5 cm or 53.74 inches 
+Alfa Romeo 33 1.5 Quadrifoglio Oro, 401.5 cm or 158.07 inches , 161.2 cm or 63.46 inches , 134 cm or 52.76 inches 
+Alfa Romeo 33 1.5, 401.5 cm or 158.07 inches , 161.2 cm or 63.46 inches , 134 cm or 52.76 inches 
+Alfa Romeo 33 1.5 QV, 401.5 cm or 158.07 inches , 161.2 cm or 63.46 inches , 130.5 cm or 51.38 inches 
+Alfa Romeo 33 1.2, 401.5 cm or 158.07 inches , 161.2 cm or 63.46 inches , 134 cm or 52.76 inches 
+Alfa Romeo 33 1.5 4x4, 401.5 cm or 158.07 inches , 161.2 cm or 63.46 inches , 136.5 cm or 53.74 inches 
+Alfa Romeo Arna 1.5 Ti, 400 cm or 157.48 inches , 162 cm or 63.78 inches , 134 cm or 52.76 inches 
+Alfa Romeo Arna 1.3 Ti, 400 cm or 157.48 inches , 162 cm or 63.78 inches , 134 cm or 52.76 inches 
+Alfa Romeo Arna 1.3 SL, 400 cm or 157.48 inches , 162 cm or 63.78 inches , 134 cm or 52.76 inches 
+Alfa Romeo Arna 1.2 SL, 400 cm or 157.48 inches , 162 cm or 63.78 inches , 134 cm or 52.76 inches 
+Alfa Romeo Arna 1.2 L, 400 cm or 157.48 inches , 162 cm or 63.78 inches , 134 cm or 52.76 inches 
+Alfa Romeo 90 2.4 TD, 439.2 cm or 172.91 inches , 163.8 cm or 64.49 inches , 142 cm or 55.91 inches 
+Alfa Romeo 90 Super 2.0 I V6, 439.2 cm or 172.91 inches , 163.8 cm or 64.49 inches , 142 cm or 55.91 inches 
+Alfa Romeo 90 Super 1.8, 421 cm or 165.75 inches , 165 cm or 64.96 inches , 140 cm or 55.12 inches 
+Alfa Romeo 90 2.5 V6 QO, 439.2 cm or 172.91 inches , 163.8 cm or 64.49 inches , 142 cm or 55.91 inches 
+Alfa Romeo 90 2.0, 439.2 cm or 172.91 inches , 163.8 cm or 64.49 inches , 142 cm or 55.91 inches 
+Alfa Romeo 6 2.5 Turbo Diesel, 467.9 cm or 184.21 inches , 168.4 cm or 66.3 inches , 142.5 cm or 56.1 inches 
+Alfa Romeo 6 2.5i QO, 467.9 cm or 184.21 inches , 168.4 cm or 66.3 inches ," 142.5 cm or 56.1 inches "
+Alfa Romeo 6 2.0, 467.9 cm or 184.21 inches , 168.4 cm or 66.3 inches , 142.5 cm or 56.1 inches 
+Alfa Romeo 75 2.4 TD, 433 cm or 170.47 inches , 163 cm or 64.17 inches , 140 cm or 55.12 inches 
+Alfa Romeo 75 2.0 TD, 433 cm or 170.47 inches , 163 cm or 64.17 inches , 140 cm or 55.12 inches 
+Alfa Romeo 75 3.0 V6 QV, 433 cm or 170.47 inches , 166 cm or 65.35 inches , 140 cm or 55.12 inches 
+Alfa Romeo 75 1.8 Turbo QV, 433 cm or 170.47 inches , 163 cm or 64.17 inches , 140 cm or 55.12 inches 
+Alfa Romeo 75 1.6 IE, 433 cm or 170.47 inches , 163 cm or 64.17 inches , 140 cm or 55.12 inches 
+Alfa Romeo 75 1.8 IE, 433.1 cm or 170.51 inches , 163.1 cm or 64.21 inches , 134.9 cm or 53.11 inches 
+Alfa Romeo 75 3.0 V6 America, 433 cm or 170.47 inches , 166 cm or 65.35 inches , 140 cm or 55.12 inches 
+Alfa Romeo 75 2.0 TwinSpark, 433 cm or 170.47 inches , 166 cm or 65.35 inches , 140 cm or 55.12 inches 
+Alfa Romeo 75 1.8 Turbo Evoluzione, 436 cm or 171.65 inches , 166 cm or 65.35 inches , 140 cm or 55.12 inches 
+Alfa Romeo 75 1.8 IE Turbo, 433 cm or 170.47 inches , 166 cm or 65.35 inches , 134.9 cm or 53.11 inches 
+Alfa Romeo 75 2.5 V6 Aut., 433 cm or 170.47 inches , 163 cm or 64.17 inches , 140 cm or 55.12 inches 
+Alfa Romeo 75 1.8 Carbs, 433.1 cm or 170.51 inches , 163.1 cm or 64.21 inches , 134.9 cm or 53.11 inches 
+Alfa Romeo 75 2.5 V6, 433 cm or 170.47 inches , 166 cm or 65.35 inches , 140 cm or 55.12 inches 
+Alfa Romeo 75 1.6 Carbs, 433.1 cm or 170.51 inches , 163.1 cm or 64.21 inches , 134.9 cm or 53.11 inches 
+Alfa Romeo 75 2.0 Carbs, 433 cm or 170.47 inches , 163 cm or 64.17 inches , 140 cm or 55.12 inches 
+Alfa Romeo 164 2.5 TD, 455.5 cm or 179.33 inches , 176 cm or 69.29 inches , 140 cm or 55.12 inches 
+Alfa Romeo 164 Q4, 456 cm or 179.53 inches , 176 cm or 69.29 inches , 136 cm or 53.54 inches 
+Alfa Romeo 164 3.0 V6 Q4, 455.5 cm or 179.33 inches , 176 cm or 69.29 inches , 139 cm or 54.72 inches 
+Alfa Romeo 164 Super 3.0 V6 QV, 466.5 cm or 183.66 inches , 176 cm or 69.29 inches , 139 cm or 54.72 inches 
+Alfa Romeo 164 Super 3.0 V6, 466.5 cm or 183.66 inches , 176 cm or 69.29 inches , 139 cm or 54.72 inches 
+Alfa Romeo 164 2.0 V6 Turbo, 455.5 cm or 179.33 inches , 176 cm or 69.29 inches , 140 cm or 55.12 inches 
+Alfa Romeo 164 2.0 Turbo, 456 cm or 179.53 inches , 176 cm or 69.29 inches , 140 cm or 55.12 inches 
+Alfa Romeo 164 3.0 V6, 455.5 cm or 179.33 inches , 176 cm or 69.29 inches , 140 cm or 55.12 inches 
+Alfa Romeo 164 2.0 TS, 455.5 cm or 179.33 inches , 176 cm or 69.29 inches , 140 cm or 55.12 inches 
+Alfa Romeo Zagato RZ, 406 cm or 159.84 inches , 173 cm or 68.11 inches , 130 cm or 51.18 inches 
+Alfa Romeo Zagato SZ, 406 cm or 159.84 inches , 173 cm or 68.11 inches , 131 cm or 51.57 inches 
+Alfa Romeo Spider Series 4 2000 Injection, 426.7 cm or 167.99 inches , 162.6 cm or 64.02 inches , 129.5 cm or 50.98 inches 
+Alfa Romeo Spider Series 4 1600, 426 cm or 167.72 inches , 163 cm or 64.17 inches , 129 cm or 50.79 inches 
+Alfa Romeo 155 2.0 TD, 444 cm or 174.8 inches , 170 cm or 66.93 inches , 144 cm or 56.69 inches 
+Alfa Romeo 155 2.5 TD, 444.3 cm or 174.92 inches , 173 cm or 68.11 inches , 142.5 cm or 56.1 inches 
+Alfa Romeo 155 1.6 TS, 444.3 cm or 174.92 inches , 173 cm or 68.11 inches , 144 cm or 56.69 inches 
+Alfa Romeo 155 1.8 TS 16v, 444.3 cm or 174.92 inches , 173 cm or 68.11 inches , 142.5 cm or 56.1 inches 
+Alfa Romeo 155 2.0 16v TS, 444 cm or 174.8 inches , 173 cm or 68.11 inches , 143 cm or 56.3 inches 
+Alfa Romeo 155 1.7 TS, 444.3 cm or 174.92 inches , 173 cm or 68.11 inches , 142.5 cm or 56.1 inches 
+Alfa Romeo 155 1.8 TS, 444.5 cm or 175 inches , 170 cm or 66.93 inches , 144 cm or 56.69 inches 
+Alfa Romeo 155 2.0 Q4, 444 cm or 174.8 inches , 170 cm or 66.93 inches , 144 cm or 56.69 inches 
+Alfa Romeo 155 2.0 TS, 444 cm or 174.8 inches , 170 cm or 66.93 inches , 144 cm or 56.69 inches 
+Alfa Romeo 155 2.5 V6, 444.3 cm or 174.92 inches , 173 cm or 68.11 inches , 142.5 cm or 56.1 inches 
+Alfa Romeo 146 1.9 JTD, 425.7 cm or 167.6 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 146 2.0 TD, 426 cm or 167.72 inches , 171 cm or 67.32 inches , 143 cm or 56.3 inches 
+Alfa Romeo 146 1.4 TS, 425.7 cm or 167.6 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 146 1.6 TS, 425.7 cm or 167.6 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 146 1.8 TS, 425.7 cm or 167.6 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 146 2.0 Ti, 425.7 cm or 167.6 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 146 2.0 TI, 426 cm or 167.72 inches , 171 cm or 67.32 inches , 143 cm or 56.3 inches 
+Alfa Romeo 146 1.7 16v, 426 cm or 167.72 inches , 171 cm or 67.32 inches , 143 cm or 56.3 inches 
+Alfa Romeo 146 1.6, 426 cm or 167.72 inches , 171 cm or 67.32 inches , 143 cm or 56.3 inches 
+Alfa Romeo 146 1.4, 426 cm or 167.72 inches , 171 cm or 67.32 inches , 143 cm or 56.3 inches 
+Alfa Romeo 145 1.9 JTD, 409.3 cm or 161.14 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 145 1.9 TD, 409.3 cm or 161.14 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 145 1.4 TS, 409.3 cm or 161.14 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 145 1.6 TS, 409.3 cm or 161.14 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 145 1.8 TS, 409.3 cm or 161.14 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 145 2.0 TS 16v QV, 409.3 cm or 161.14 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 145 2.0 QV, 409 cm or 161.02 inches , 171 cm or 67.32 inches , 143 cm or 56.3 inches 
+Alfa Romeo 145 1.7 16v, 409.3 cm or 161.14 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 145 1.6, 409.3 cm or 161.14 inches , 171.2 cm or 67.4 inches , 142.7 cm or 56.18 inches 
+Alfa Romeo 145 1.4, 409 cm or 161.02 inches , 171 cm or 67.32 inches , 143 cm or 56.3 inches 
+Alfa Romeo GTV 3.2 V6 24v, 429.9 cm or 169.25 inches , 177.6 cm or 69.92 inches , 131.8 cm or 51.89 inches 
+Alfa Romeo GTV 2.0 JTS, 429.9 cm or 169.25 inches , 177.6 cm or 69.92 inches , 131.8 cm or 51.89 inches 
+Alfa Romeo GTV 1.8 TS, 428.5 cm or 168.7 inches , 178 cm or 70.08 inches , 131.8 cm or 51.89 inches 
+Alfa Romeo GTV 3.0 V6 24v, 428.5 cm or 168.7 inches , 178 cm or 70.08 inches , 131.8 cm or 51.89 inches 
+Alfa Romeo GTV 2.0 V6 TB, 429 cm or 168.9 inches , 178 cm or 70.08 inches , 132 cm or 51.97 inches 
+Alfa Romeo GTV 2.0 TS, 429 cm or 168.9 inches , 178 cm or 70.08 inches , 132 cm or 51.97 inches 
+Alfa Romeo Spider (Type 916) 3.2 V6 24v, 429.9 cm or 169.25 inches , 177.6 cm or 69.92 inches , 131.5 cm or 51.77 inches 
+Alfa Romeo Spider (Type 916) 2.0 TS, 429.9 cm or 169.25 inches , 177.6 cm or 69.92 inches , 131.5 cm or 51.77 inches 
+Alfa Romeo Spider (Type 916) 2.0 JTS, 429.9 cm or 169.25 inches , 177.6 cm or 69.92 inches , 131.5 cm or 51.77 inches 
+Alfa Romeo Spider (Type 916) 3.0 V6 24v, 428.5 cm or 168.7 inches , 178 cm or 70.08 inches , 131.5 cm or 51.77 inches 
+Alfa Romeo Spider (Type 916) 2.0 TS, 428.5 cm or 168.7 inches , 178 cm or 70.08 inches , 131.5 cm or 51.77 inches 
+Alfa Romeo Spider (Type 916) 1.8 TS, 428.5 cm or 168.7 inches , 178 cm or 70.08 inches , 131.5 cm or 51.77 inches 
+Alfa Romeo Spider (Type 916) 3.0 V6 12v, 428.5 cm or 168.7 inches , 178 cm or 70.08 inches , 131.5 cm or 51.77 inches 
+Alfa Romeo Spider (Type 916) 2.0 TS, 428.5 cm or 168.7 inches , 178 cm or 70.08 inches , 131.5 cm or 51.77 inches 
+Alfa Romeo Nuvola Concept, 428.6 cm or 168.74 inches , 185.9 cm or 73.19 inches , - cm or - inches 
+Alfa Romeo 156 2.4 JTD 20v, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 1.9 JTD 16v, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 1.9 JTD 8v, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 2.4 JTD 10v, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 1.9 JTD, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.1 cm or 55.55 inches 
+Alfa Romeo 156 2.4 JTD, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 GTA, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 140.2 cm or 55.2 inches 
+Alfa Romeo 156 2.0 JTS, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 2.5 V6, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 1.8 TS, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 2.0 TS, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.1 cm or 55.55 inches 
+Alfa Romeo 156 2.5 V6, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 1.6 TS, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 166 2.4 JTD 10v, 472 cm or 185.83 inches , 180 cm or 70.87 inches , 138.3 cm or 54.45 inches 
+Alfa Romeo 166 2.4 JTD 20v, 472 cm or 185.83 inches , 180 cm or 70.87 inches , 138.3 cm or 54.45 inches 
+Alfa Romeo 166 2.4 JTD, 472 cm or 185.83 inches , 181.5 cm or 71.46 inches , 141.6 cm or 55.75 inches 
+Alfa Romeo 166 2.0 TS, 472 cm or 185.83 inches , 180 cm or 70.87 inches , 141.6 cm or 55.75 inches 
+Alfa Romeo 166 3.2 V6 24v, 472 cm or 185.83 inches , 180 cm or 70.87 inches , 138.3 cm or 54.45 inches 
+Alfa Romeo 166 2.5 V6, 472 cm or 185.83 inches , 180 cm or 70.87 inches , 138.3 cm or 54.45 inches 
+Alfa Romeo 166 3.0 V6 Sportronic, 472 cm or 185.83 inches , 180 cm or 70.87 inches , 138.3 cm or 54.45 inches 
+Alfa Romeo 166 2.0 TS 16v, 472 cm or 185.83 inches , 181.5 cm or 71.46 inches , 141.6 cm or 55.75 inches 
+Alfa Romeo 166 2.5 V6 24v, 472 cm or 185.83 inches , 181.5 cm or 71.46 inches , 141.6 cm or 55.75 inches 
+Alfa Romeo 166 3.0 V6 24v Super, 472 cm or 185.83 inches , 181.5 cm or 71.46 inches , 141.6 cm or 55.75 inches 
+Alfa Romeo 166 2.0 V6 TB, 472 cm or 185.83 inches , 182 cm or 71.65 inches , 141 cm or 55.51 inches 
+Alfa Romeo Dardo Concept, 438.5 cm or 172.64 inches , 179.5 cm or 70.67 inches , 125 cm or 49.21 inches 
+Alfa Romeo 156 Sportwagon 1.9 JTD, 444.1 cm or 174.84 inches , 174.3 cm or 68.62 inches , 143 cm or 56.3 inches 
+Alfa Romeo 156 Sportwagon 1.9 JTD Multijet, 444.1 cm or 174.84 inches , 174.3 cm or 68.62 inches , 143 cm or 56.3 inches 
+Alfa Romeo 156 Sportwagon 2.4 JTD Multijet, 444.1 cm or 174.84 inches , 174.3 cm or 68.62 inches , 143 cm or 56.3 inches 
+Alfa Romeo 156 Sportwagon 1.9 JTD, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 Sportwagon 2.4 JTD, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 139 cm or 54.72 inches 
+Alfa Romeo 156 Sportwagon 2.4 JTD, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 142 cm  or 55.91 inches 
+Alfa Romeo 156 Sportwagon 1.9 JTD, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 142 cm or 55.91 inches 
+Alfa Romeo 156 Sportwagon 1.8 Twin Spark, 444.1 cm or 174.84 inches , 174.3 cm or 68.62 inches , 143 cm or 56.3 inches 
+Alfa Romeo 156 Sportwagon 2.5 V6 24v Q-System Auto, 444.1 cm or 174.84 inches , 174.3 cm or 68.62 inches , 143 cm or 56.3 inches 
+Alfa Romeo 156 Sportwagon 2.0 JTS, 444.1 cm or 174.84 inches , 174.3 cm or 68.62 inches , 143 cm or 56.3 inches 
+Alfa Romeo 156 Sportwagon 2.5 V6 24v, 444.1 cm or 174.84 inches , 174.3 cm or 68.62 inches , 143 cm or 56.3 inches 
+Alfa Romeo 156 Sportwagon 1.6 Twin Spark, 444.1 cm or 174.84 inches , 174.3 cm or 68.62 inches , 143 cm or 56.3 inches 
+Alfa Romeo 156 Sportwagon 2.0 JTS, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 139 cm or 54.72 inches 
+Alfa Romeo 156 Sportwagon GTA, 443 cm or 174.41 inches , 176.5 cm or 69.49 inches , 141.1 cm or 55.55 inches 
+Alfa Romeo 156 Sportwagon 2.5 V6 24v, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 142 cm or 55.91 inches 
+Alfa Romeo 156 Sportwagon 1.8 Twin Spark 16v, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 142 cm or 55.91 inches 
+Alfa Romeo 156 Sportwagon 1.6 Twin Spark 16v, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 142 cm or 55.91 inches 
+Alfa Romeo 156 Sportwagon 2.5 V6 24v, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 142 cm or 55.91 inches 
+Alfa Romeo 156 Sportwagon 2.5 V6 Q-System Auto, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 142 cm or 55.91 inches 
+Alfa Romeo 156 Sportwagon 1.8 Twin Spark, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 Sportwagon 2.5 V6 24v Q-System Auto, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 142 cm or 55.91 inches 
+Alfa Romeo 156 Sportwagon 1.6 Twin Spark, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 141.5 cm or 55.71 inches 
+Alfa Romeo 156 Sportwagon 2.0 Twin Spark, 443 cm or 174.41 inches , 174.5 cm or 68.7 inches , 142 cm or 55.91 inches 
+Alfa Romeo 147 5p 1.9 JTD 120HP Moving, 422.3 cm or 166.26 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 5p 1.9 JTD 120HP Moving, 422.3 cm or 166.26 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 1.9 JTD Ducati Corse 3 doors, 422.3 cm or 166.26 inches , 172.9 cm or 68.07 inches , 142.1 cm or 55.94 inches 
+Alfa Romeo 147 1.9 JTD Ducati Corse 5 doors, 422.3 cm or 166.26 inches , 172.9 cm or 68.07 inches , 142.1 cm or 55.94 inches 
+Alfa Romeo 147 1.9 JTDm 16v Q2, 422.3 cm or 166.26 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 1.9 JTD 8v Mjet, 422.3 cm or 166.26 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 1.9 JTD, 422.3 cm or 166.26 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 1.9 JTD 16v, 422.3 cm or 166.26 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 1.9 JTD 16v, 417 cm or 164.17 inches , 172.9 cm or 68.07 inches , 142.1 cm or 55.94 inches 
+Alfa Romeo 147 1.9 JTD, 417 cm or 164.17 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 5p 1.6 TS 105HP Moving, 422.3 cm or 166.26 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 5p 1.6 TS 105HP Moving, 422.3 cm or 166.26 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 GTA, 417 cm or 164.17 inches , 172.9 cm or 68.07 inches , 142.1 cm or 55.94 inches 
+Alfa Romeo 147 1.6 TS, 417 cm or 164.17 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 1.6 TS eco, 417 cm or 164.17 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo 147 2.0 TS, 417 cm or 164.17 inches , 172.9 cm or 68.07 inches , 144.2 cm or 56.77 inches 
+Alfa Romeo Centauri Concept, 368 cm or 144.88 inches , 180 cm or 70.87 inches , 98 cm or 38.58 inches 
+Alfa Romeo Kamal Concept, 435 cm or 171.26 inches , 186 cm or 73.23 inches , 162 cm or 63.78 inches 
+Alfa Romeo 8C Competizione Spider, 438.1 cm or 172.48 inches , 189.4 cm or 74.57 inches , - cm or - inches 
+Alfa Romeo 8C Competizione , 438.1 cm or 172.48 inches , 189.4 cm or 74.57 inches , 134.1 cm or 52.8 inches 
+Alfa Romeo 8C Competizione Concept, 427.8 cm or 168.43 inches , 190 cm or 74.8 inches , 125 cm or 49.21 inches 
+Alfa Romeo GT 1.9 JTDm 150HP Moving, 448.9 cm or 176.73 inches , 176.3 cm or 69.41 inches , 136.6 cm or 53.78 inches 
+Alfa Romeo GT 1.9 JTDm 16v Q2, 448.9 cm or 176.73 inches , 176.3 cm or 69.41 inches , 136.6 cm or 53.78 inches 
+Alfa Romeo GT 1.9 JTD MJet 16v, 448.9 cm or 176.73 inches , 176.3 cm or 69.41 inches , 136.6 cm or 53.78 inches 
+Alfa Romeo GT 1.8 TS 140HP Moving, 448.9 cm or 176.73 inches , 176.3 cm or 69.41 inches , 136.2 cm or 53.62 inches 
+Alfa Romeo GT 3.2 V6, 448.9 cm or 176.73 inches , 176.3 cm or 69.41 inches , 135.5 cm or 53.35 inches 
+Alfa Romeo GT 2.0 JTS, 448.9 cm or 176.73 inches , 176.3 cm or 69.41 inches , 136.2 cm or 53.62 inches 
+Alfa Romeo GT 1.8 TS, 448.9 cm or 176.73 inches , 176.3 cm or 69.41 inches , 136.2 cm or 53.62 inches 
+Alfa Romeo Visconti Concept, 495.5 cm or 195.08 inches , 189.6 cm or 74.65 inches , 147.4 cm or 58.03 inches 
+Alfa Romeo Brera 2.4 JTDm 210HP, 441.3 cm or 173.74 inches , 183 cm or 72.05 inches , 137.2 cm or 54.02 inches 
+Alfa Romeo Brera 2.4 JTDm 200HP Q-Tronic, 441.3 cm or 173.74 inches , 183 cm or 72.05 inches , 137.2 cm or 54.02 inches 
+Alfa Romeo Brera 2.0 JTDm 170HP, 441.3 cm or 173.74 inches , 183 cm or 72.05 inches , 137.2 cm or 54.02 inches 
+Alfa Romeo Brera 2.4 JTDm, 441.3 cm or 173.74 inches , 183 cm or 72.05 inches , 137.2 cm or 54.02 inches 
+Alfa Romeo Brera 1.8 TBi 200HP, 441.3 cm or 173.74 inches , 183 cm or 72.05 inches , 137.2 cm or 54.02 inches 
+Alfa Romeo Brera 3.2 V6 JTS Q4, 441.3 cm or 173.74 inches , 183 cm or 72.05 inches , 137.2 cm or 54.02 inches 
+Alfa Romeo Brera 2.2 JTS, 441.3 cm or 173.74 inches , 183 cm or 72.05 inches , 137.2 cm or 54.02 inches 
+Alfa Romeo 159 1.9 JTDm 120HP Sport ECO, 466 cm or 183.46 inches , 182.8 cm or 71.97 inches , 141.7 cm or 55.79 inches 
+Alfa Romeo 159 1.9 JTDm 120HP Sport Plus ECO, 466 cm or 183.46 inches , 182.8 cm or 71.97 inches , 142.2 cm or 55.98 inches 
+Alfa Romeo 159 2.0 JTDm 170HP Sport Plus, 466 cm or 183.46 inches , 182.8 cm or 71.97 inches , 142.2 cm or 55.98 inches 
+Alfa Romeo 159 2.0 JTDm 170HP Sport Plus ECO, 466 cm or 183.46 inches , 182.8 cm or 71.97 inches , 142.2 cm or 55.98 inches 
+Alfa Romeo 159 SW 1.9 JTDm 120HP Sport ECO, 466 cm or 183.46 inches , 182.8 cm or 71.97 inches , 141.7 cm or 55.79 inches 
+Alfa Romeo 159 SW 1.9 JTDm 120HP Sport Plus ECO, 466 cm or 183.46 inches , 182.8 cm or 71.97 inches , 142.2 cm or 55.98 inches 
+Alfa Romeo 159 SW 2.0 JTDm 170HP Sport Plus, 466 cm or 183.46 inches , 182.8 cm or 71.97 inches , 142.2 cm or 55.98 inches 
+Alfa Romeo 159 SW 2.0 JTDm 170HP Sport Plus ECO, 466 cm or 183.46 inches , 182.8 cm or 71.97 inches , 142.2 cm or 55.98 inches 
+Alfa Romeo 159 1.9 JTDm 16v, 466.1 cm or 183.5 inches , 183 cm or 72.05 inches , 145.2 cm or 57.17 inches 
+Alfa Romeo 159 1.9 JTDm 8v, 466.1 cm or 183.5 inches , 183 cm or 72.05 inches , 145.2 cm or 57.17 inches 
+Alfa Romeo 159 2.4 JTDm, 466.1 cm or 183.5 inches , 183 cm or 72.05 inches , 145.2 cm or 57.17 inches 
+Alfa Romeo 159 SW 1.8 TBi 200HP Sport Plus, 466 cm or 183.46 inches , 182.8 cm or 71.97 inches , 142.2 cm or 55.98 inches 
+Alfa Romeo 159 1.8 TBi 200HP Sport Plus, 466 cm or 183.46 inches , 182.8 cm or 71.97 inches , 142.2 cm or 55.98 inches 
+Alfa Romeo 159 2.2 JTS, 466.1 cm or 183.5 inches , 183 cm or 72.05 inches , 145.2 cm or 57.17 inches 
+Alfa Romeo 159 1.8, 466.1 cm or 183.5 inches , 183 cm or 72.05 inches , 145.2 cm or 57.17 inches 
+Alfa Romeo 159 3.2 V6 JTS Q4, 466.1 cm or 183.5 inches , 183 cm or 72.05 inches , 145.2 cm or 57.17 inches 
+Alfa Romeo 159 1.9 JTS, 466.1 cm or 183.5 inches , 182.8 cm or 71.97 inches , 145.2 cm or 57.17 inches 
+Alfa Romeo Spider (Type 939) 2.4 JTDm 210HP, 439.3 cm or 172.95 inches , 183 cm or 72.05 inches , 131.8 cm or 51.89 inches 
+Alfa Romeo Spider (Type 939) 2.4 JTDm 200HP Q-Tronic, 439.3 cm or 172.95 inches , 183 cm or 72.05 inches , 131.8 cm or 51.89 inches 
+Alfa Romeo Spider (Type 939) 2.0 JTDm 170HP, 439.3 cm or 172.95 inches , 183 cm or 72.05 inches , 131.8 cm or 51.89 inches 
+Alfa Romeo Spider (Type 939) 1.8 TBi 200HP, 439.3 cm or 172.95 inches , 183 cm or 72.05 inches , 131.8 cm or 51.89 inches 
+Alfa Romeo Spider (Type 939) 3.2 V6 JTS Q4, 439.3 cm or 172.95 inches , 183 cm or 72.05 inches , 131.8 cm or 51.89 inches 
+Alfa Romeo Spider (Type 939) 2.2 JTS, 439.3 cm or 172.95 inches , 183 cm or 72.05 inches , 131.8 cm or 51.89 inches 
+Alfa Romeo Crosswagon 1.9 JTD 16v Q4, 444 cm or 174.8 inches , 176 cm or 69.29 inches , 150 cm or 59.06 inches 
+Alfa Romeo MiTo 1.3 80HP JTDm ECO Urban, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 145.3 cm or 57.2 inches 
+Alfa Romeo MiTo 1.3 JTDm 85HP S&S Junior, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 85HP JTDm Distinctive, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.6 120HP JTDm Distinctive, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 85HP JTDm MiTo, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 85HP JTDm SBK, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm 95HP S&S Distinctive, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.6 JTDm 120HP S&S Distinctive, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm 95HP S&S, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm 95HP StartStop Distinctive, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm-2, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.6 JTDm 120HP Distinctive, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm 95HP StartStop Junior, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm 95HP StartStop Junior, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm StartStop 95HP Distinctive, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm 90HP Junior, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm 95HP S&S, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.6 JTDm 120HP S&S Distinctive, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.6 JTDm, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.6 JTDm 120HP Distinctive, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 1.3 JTDm 95HP S&S Distinctive, 406.3 cm or 159.96 inches , 172.1 cm or 67.76 inches , 144.6 cm or 56.93 inches 
+Alfa Romeo MiTo 0.9 Turbo TwinAir 100HP ECO Urban, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 145.3 cm or 57.2 inches 
+Alfa Romeo MiTo 1.4 Turbo MultiAir 140HP Urban, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 145.3 cm or 57.2 inches 
+Alfa Romeo MiTo 0.9 105HP TwinAir S&S Junior, 406.3 cm or 159.96 inches , 172 cm or 67.72 inches , 144.6 cm or 56.93 inches 
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
